@@ -1,0 +1,56 @@
+Apr 29 16:05:26.015 HYPERVISOR: Release 0.2.21-amd64/Linux (tag 2019071212)
+Apr 29 16:05:26.015 HYPERVISOR: Started on IP = localhost, TCP port = 35907.
+Apr 29 16:05:26.025 HYPERVISOR: exec_cmd: hypervisor version 
+Apr 29 16:05:26.025 HYPERVISOR: exec_cmd: hypervisor working_dir /home/andre/GNS3/projects/ar-project/project-files/dynamips 
+Apr 29 16:05:26.025 GENERAL: working_dir=/home/andre/GNS3/projects/ar-project/project-files/dynamips
+Apr 29 16:05:26.025 HYPERVISOR: exec_cmd: hypervisor working_dir /home/andre/GNS3/projects/ar-project/project-files/dynamips/607b2d29-9327-49fb-a645-99ef8aba4c13 
+Apr 29 16:05:26.025 GENERAL: working_dir=/home/andre/GNS3/projects/ar-project/project-files/dynamips/607b2d29-9327-49fb-a645-99ef8aba4c13
+Apr 29 16:05:26.025 HYPERVISOR: exec_cmd: vm create R2 2 c7200 
+Apr 29 16:05:26.025 VM: VM R2 created.
+Apr 29 16:05:26.025 HYPERVISOR: exec_cmd: vm set_con_tcp_port R2 5001 
+Apr 29 16:05:26.025 HYPERVISOR: exec_cmd: c7200 get_mac_addr R2 
+Apr 29 16:05:26.026 HYPERVISOR: exec_cmd: vm get_status R2 
+Apr 29 16:05:26.026 HYPERVISOR: exec_cmd: vm slot_add_binding R2 0 0 C7200-IO-FE 
+Apr 29 16:05:26.026 HYPERVISOR: exec_cmd: vm set_ios R2 /home/andre/GNS3/images/IOS/c7200-adventerprisek9-mz.151-4.M2.image 
+Apr 29 16:05:26.026 HYPERVISOR: exec_cmd: vm get_status R2 
+Apr 29 16:05:26.026 HYPERVISOR: exec_cmd: vm set_idle_pc R2 0x601712a8 
+Apr 29 16:05:26.026 HYPERVISOR: exec_cmd: vm set_ram R2 512 
+Apr 29 16:05:26.026 HYPERVISOR: exec_cmd: vm set_nvram R2 512 
+Apr 29 16:05:26.027 HYPERVISOR: exec_cmd: vm set_disk0 R2 0 
+Apr 29 16:05:26.027 HYPERVISOR: exec_cmd: vm get_status R2 
+Apr 29 16:05:26.027 HYPERVISOR: exec_cmd: vm slot_add_binding R2 1 0 PA-2FE-TX 
+Apr 29 16:05:26.027 HYPERVISOR: exec_cmd: vm get_status R2 
+Apr 29 16:05:26.027 HYPERVISOR: exec_cmd: vm slot_add_binding R2 2 0 PA-2FE-TX 
+Apr 29 16:05:26.049 HYPERVISOR: exec_cmd: vm set_ios R2 /home/andre/GNS3/images/IOS/c7200-adventerprisek9-mz.151-4.M2.image 
+Apr 29 16:07:22.063 HYPERVISOR: exec_cmd: nio create_udp udp-f98bfd4c-12d4-40d8-9180-50914de3c0f4 10010 127.0.0.1 10011 
+Apr 29 16:07:22.271 HYPERVISOR: exec_cmd: vm slot_add_nio_binding R2 0 0 udp-f98bfd4c-12d4-40d8-9180-50914de3c0f4 
+Apr 29 16:07:22.271 HYPERVISOR: exec_cmd: vm get_status R2 
+Apr 29 16:07:29.599 HYPERVISOR: exec_cmd: nio create_udp udp-75a1219a-532f-486b-adf4-b177d2af3a08 10022 127.0.0.1 10023 
+Apr 29 16:07:29.600 HYPERVISOR: exec_cmd: vm slot_add_nio_binding R2 1 0 udp-75a1219a-532f-486b-adf4-b177d2af3a08 
+Apr 29 16:07:29.600 HYPERVISOR: exec_cmd: vm get_status R2 
+Apr 29 16:07:41.340 HYPERVISOR: exec_cmd: nio create_udp udp-752a1c78-10e0-4e79-ae5b-8b05c0789890 10034 127.0.0.1 10035 
+Apr 29 16:07:41.341 HYPERVISOR: exec_cmd: vm slot_add_nio_binding R2 1 1 udp-752a1c78-10e0-4e79-ae5b-8b05c0789890 
+Apr 29 16:07:41.341 HYPERVISOR: exec_cmd: vm get_status R2 
+Apr 29 16:07:47.187 HYPERVISOR: exec_cmd: nio create_udp udp-93c3a53c-622f-4b4c-8554-c57c391412d6 10046 127.0.0.1 10047 
+Apr 29 16:07:47.188 HYPERVISOR: exec_cmd: vm slot_add_nio_binding R2 2 0 udp-93c3a53c-622f-4b4c-8554-c57c391412d6 
+Apr 29 16:07:47.188 HYPERVISOR: exec_cmd: vm get_status R2 
+Apr 29 16:08:48.552 HYPERVISOR: exec_cmd: vm set_ios R2 /home/andre/GNS3/images/IOS/c7200-adventerprisek9-mz.151-4.M2.image 
+Apr 29 16:08:50.564 HYPERVISOR: exec_cmd: vm get_status R2 
+Apr 29 16:08:50.564 HYPERVISOR: exec_cmd: vm slot_remove_nio_binding R2 0 0 
+Apr 29 16:08:50.564 HYPERVISOR: exec_cmd: nio delete udp-f98bfd4c-12d4-40d8-9180-50914de3c0f4 
+Apr 29 16:08:50.593 HYPERVISOR: exec_cmd: vm get_status R2 
+Apr 29 16:08:50.593 HYPERVISOR: exec_cmd: vm slot_remove_nio_binding R2 1 0 
+Apr 29 16:08:50.593 HYPERVISOR: exec_cmd: nio delete udp-75a1219a-532f-486b-adf4-b177d2af3a08 
+Apr 29 16:08:50.622 HYPERVISOR: exec_cmd: vm get_status R2 
+Apr 29 16:08:50.622 HYPERVISOR: exec_cmd: vm slot_remove_nio_binding R2 1 1 
+Apr 29 16:08:50.623 HYPERVISOR: exec_cmd: nio delete udp-752a1c78-10e0-4e79-ae5b-8b05c0789890 
+Apr 29 16:08:50.651 HYPERVISOR: exec_cmd: vm get_status R2 
+Apr 29 16:08:50.651 HYPERVISOR: exec_cmd: vm slot_remove_nio_binding R2 2 0 
+Apr 29 16:08:50.651 HYPERVISOR: exec_cmd: nio delete udp-93c3a53c-622f-4b4c-8554-c57c391412d6 
+Apr 29 16:08:50.756 HYPERVISOR: exec_cmd: vm get_status R2 
+Apr 29 16:08:50.757 HYPERVISOR: exec_cmd: vm extract_config R2 
+Apr 29 16:08:50.757 HYPERVISOR: exec_cmd: vm delete R2 
+Apr 29 16:08:50.757 VM: VM R2 destroyed.
+Apr 29 16:08:50.757 HYPERVISOR: exec_cmd: hypervisor stop 
+Apr 29 16:08:51.215 HYPERVISOR: Stopped.
+Apr 29 16:08:51.215 GENERAL: reset done.

@@ -1,0 +1,19 @@
+Apr 29 16:48:13.338 HYPERVISOR: Release 0.2.21-amd64/Linux (tag 2019071212)
+Apr 29 16:48:13.338 HYPERVISOR: Started on IP = localhost, TCP port = 45831.
+Apr 29 16:48:13.348 HYPERVISOR: exec_cmd: hypervisor version 
+Apr 29 16:48:13.348 HYPERVISOR: exec_cmd: hypervisor working_dir /home/andre/GNS3/projects/ar-project/project-files/dynamips 
+Apr 29 16:48:13.348 GENERAL: working_dir=/home/andre/GNS3/projects/ar-project/project-files/dynamips
+Apr 29 16:48:13.348 HYPERVISOR: exec_cmd: ethsw create Switch7 
+Apr 29 16:49:00.815 HYPERVISOR: exec_cmd: nio create_udp udp-19d2d997-fd22-48e9-8518-24b688316c13 10165 127.0.0.1 10164 
+Apr 29 16:49:00.815 HYPERVISOR: exec_cmd: ethsw add_nio Switch7 udp-19d2d997-fd22-48e9-8518-24b688316c13 
+Apr 29 16:49:00.818 HYPERVISOR: exec_cmd: ethsw set_access_port Switch7 udp-19d2d997-fd22-48e9-8518-24b688316c13 1 
+Apr 29 16:49:09.522 HYPERVISOR: exec_cmd: ethsw set_access_port Switch7 udp-19d2d997-fd22-48e9-8518-24b688316c13 1 
+Apr 29 16:49:15.714 HYPERVISOR: exec_cmd: ethsw set_access_port Switch7 udp-19d2d997-fd22-48e9-8518-24b688316c13 1 
+Apr 29 16:49:16.637 HYPERVISOR: exec_cmd: ethsw set_access_port Switch7 udp-19d2d997-fd22-48e9-8518-24b688316c13 1 
+Apr 29 16:49:16.823 HYPERVISOR: exec_cmd: ethsw set_access_port Switch7 udp-19d2d997-fd22-48e9-8518-24b688316c13 1 
+Apr 29 17:16:53.016 HYPERVISOR: exec_cmd: ethsw set_access_port Switch7 udp-19d2d997-fd22-48e9-8518-24b688316c13 1 
+Apr 29 17:16:55.290 HYPERVISOR: exec_cmd: ethsw set_access_port Switch7 udp-19d2d997-fd22-48e9-8518-24b688316c13 1 
+Apr 29 17:16:55.664 HYPERVISOR: exec_cmd: ethsw set_access_port Switch7 udp-19d2d997-fd22-48e9-8518-24b688316c13 1 
+Apr 29 17:17:30.998 HYPERVISOR: exec_cmd: ethsw set_access_port Switch7 udp-19d2d997-fd22-48e9-8518-24b688316c13 1 
+Apr 29 17:17:32.681 HYPERVISOR: exec_cmd: ethsw set_access_port Switch7 udp-19d2d997-fd22-48e9-8518-24b688316c13 1 
+Apr 29 17:17:32.895 HYPERVISOR: exec_cmd: ethsw set_access_port Switch7 udp-19d2d997-fd22-48e9-8518-24b688316c13 1 

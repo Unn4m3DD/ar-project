@@ -1,0 +1,15 @@
+Apr 29 16:49:25.633 HYPERVISOR: Release 0.2.21-amd64/Linux (tag 2019071212)
+Apr 29 16:49:25.633 HYPERVISOR: Started on IP = localhost, TCP port = 57257.
+Apr 29 16:49:25.642 HYPERVISOR: exec_cmd: hypervisor version 
+Apr 29 16:49:25.642 HYPERVISOR: exec_cmd: hypervisor working_dir /home/andre/GNS3/projects/ar-project/project-files/dynamips 
+Apr 29 16:49:25.642 GENERAL: working_dir=/home/andre/GNS3/projects/ar-project/project-files/dynamips
+Apr 29 16:49:25.642 HYPERVISOR: exec_cmd: ethsw create Switch8 
+Apr 29 16:51:09.824 HYPERVISOR: exec_cmd: nio create_udp udp-2704e5fb-3e14-40db-a665-87ad674fe70a 10167 127.0.0.1 10166 
+Apr 29 16:51:09.824 HYPERVISOR: exec_cmd: ethsw add_nio Switch8 udp-2704e5fb-3e14-40db-a665-87ad674fe70a 
+Apr 29 16:51:09.842 HYPERVISOR: exec_cmd: ethsw set_access_port Switch8 udp-2704e5fb-3e14-40db-a665-87ad674fe70a 1 
+Apr 29 17:16:53.279 HYPERVISOR: exec_cmd: ethsw set_access_port Switch8 udp-2704e5fb-3e14-40db-a665-87ad674fe70a 1 
+Apr 29 17:16:53.736 HYPERVISOR: exec_cmd: ethsw set_access_port Switch8 udp-2704e5fb-3e14-40db-a665-87ad674fe70a 1 
+Apr 29 17:16:55.956 HYPERVISOR: exec_cmd: ethsw set_access_port Switch8 udp-2704e5fb-3e14-40db-a665-87ad674fe70a 1 
+Apr 29 17:17:31.262 HYPERVISOR: exec_cmd: ethsw set_access_port Switch8 udp-2704e5fb-3e14-40db-a665-87ad674fe70a 1 
+Apr 29 17:17:31.832 HYPERVISOR: exec_cmd: ethsw set_access_port Switch8 udp-2704e5fb-3e14-40db-a665-87ad674fe70a 1 
+Apr 29 17:17:33.142 HYPERVISOR: exec_cmd: ethsw set_access_port Switch8 udp-2704e5fb-3e14-40db-a665-87ad674fe70a 1 

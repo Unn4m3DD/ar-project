@@ -1,0 +1,16 @@
+Apr 29 17:14:04.485 HYPERVISOR: Release 0.2.21-amd64/Linux (tag 2019071212)
+Apr 29 17:14:04.485 HYPERVISOR: Started on IP = localhost, TCP port = 35713.
+Apr 29 17:14:04.495 HYPERVISOR: exec_cmd: hypervisor version 
+Apr 29 17:14:04.495 HYPERVISOR: exec_cmd: hypervisor working_dir /home/andre/GNS3/projects/ar-project/project-files/dynamips 
+Apr 29 17:14:04.495 GENERAL: working_dir=/home/andre/GNS3/projects/ar-project/project-files/dynamips
+Apr 29 17:14:04.495 HYPERVISOR: exec_cmd: ethsw create Switch14 
+Apr 29 17:15:55.839 HYPERVISOR: exec_cmd: nio create_udp udp-5e283a91-a548-4696-b0a3-0a2d130d098b 10201 127.0.0.1 10200 
+Apr 29 17:15:55.840 HYPERVISOR: exec_cmd: ethsw add_nio Switch14 udp-5e283a91-a548-4696-b0a3-0a2d130d098b 
+Apr 29 17:15:55.846 HYPERVISOR: exec_cmd: ethsw set_access_port Switch14 udp-5e283a91-a548-4696-b0a3-0a2d130d098b 1 
+Apr 29 17:16:02.842 HYPERVISOR: exec_cmd: ethsw set_access_port Switch14 udp-5e283a91-a548-4696-b0a3-0a2d130d098b 1 
+Apr 29 17:16:53.234 HYPERVISOR: exec_cmd: ethsw set_access_port Switch14 udp-5e283a91-a548-4696-b0a3-0a2d130d098b 1 
+Apr 29 17:16:54.905 HYPERVISOR: exec_cmd: ethsw set_access_port Switch14 udp-5e283a91-a548-4696-b0a3-0a2d130d098b 1 
+Apr 29 17:16:55.796 HYPERVISOR: exec_cmd: ethsw set_access_port Switch14 udp-5e283a91-a548-4696-b0a3-0a2d130d098b 1 
+Apr 29 17:17:31.181 HYPERVISOR: exec_cmd: ethsw set_access_port Switch14 udp-5e283a91-a548-4696-b0a3-0a2d130d098b 1 
+Apr 29 17:17:32.239 HYPERVISOR: exec_cmd: ethsw set_access_port Switch14 udp-5e283a91-a548-4696-b0a3-0a2d130d098b 1 
+Apr 29 17:17:32.980 HYPERVISOR: exec_cmd: ethsw set_access_port Switch14 udp-5e283a91-a548-4696-b0a3-0a2d130d098b 1 

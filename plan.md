@@ -10,7 +10,7 @@ EDVidForAll
     - 2 studios
     - 5 conference room
     - 2 video conference rooms
-  
+
   2nd floor (comercial):
     - 30 comercial rooms
     - 5 video conference rooms
