@@ -1,0 +1,61 @@
+Apr 29 16:05:48.990 HYPERVISOR: Release 0.2.21-amd64/Linux (tag 2019071212)
+Apr 29 16:05:48.990 HYPERVISOR: Started on IP = localhost, TCP port = 42933.
+Apr 29 16:05:48.999 HYPERVISOR: exec_cmd: hypervisor version 
+Apr 29 16:05:49.000 HYPERVISOR: exec_cmd: hypervisor working_dir /home/andre/GNS3/projects/ar-project/project-files/dynamips 
+Apr 29 16:05:49.000 GENERAL: working_dir=/home/andre/GNS3/projects/ar-project/project-files/dynamips
+Apr 29 16:05:49.000 HYPERVISOR: exec_cmd: hypervisor working_dir /home/andre/GNS3/projects/ar-project/project-files/dynamips/1cc31bc9-89ea-4793-9910-23a1b52407b1 
+Apr 29 16:05:49.000 GENERAL: working_dir=/home/andre/GNS3/projects/ar-project/project-files/dynamips/1cc31bc9-89ea-4793-9910-23a1b52407b1
+Apr 29 16:05:49.000 HYPERVISOR: exec_cmd: vm create ESW8 10 c3725 
+Apr 29 16:05:49.000 VM: VM ESW8 created.
+Apr 29 16:05:49.000 HYPERVISOR: exec_cmd: vm set_con_tcp_port ESW8 5009 
+Apr 29 16:05:49.000 HYPERVISOR: exec_cmd: c3725 get_mac_addr ESW8 
+Apr 29 16:05:49.000 HYPERVISOR: exec_cmd: vm set_ios ESW8 /home/andre/GNS3/images/IOS/c3725-advipservicesk9-mz.124-21.bin 
+Apr 29 16:05:49.001 HYPERVISOR: exec_cmd: vm get_status ESW8 
+Apr 29 16:05:49.001 HYPERVISOR: exec_cmd: vm set_idle_pc ESW8 0x60a6a1e0 
+Apr 29 16:05:49.001 HYPERVISOR: exec_cmd: vm set_nvram ESW8 256 
+Apr 29 16:05:49.001 HYPERVISOR: exec_cmd: vm set_disk0 ESW8 1 
+Apr 29 16:05:49.001 HYPERVISOR: exec_cmd: vm get_status ESW8 
+Apr 29 16:05:49.001 HYPERVISOR: exec_cmd: vm slot_add_binding ESW8 1 0 NM-16ESW 
+Apr 29 16:05:49.040 HYPERVISOR: exec_cmd: vm set_ios ESW8 /home/andre/GNS3/images/IOS/c3725-advipservicesk9-mz.124-21.bin 
+Apr 29 16:05:55.744 HYPERVISOR: exec_cmd: vm set_ios ESW8 /home/andre/GNS3/images/IOS/c3725-advipservicesk9-mz.124-21.bin 
+Apr 29 16:06:51.295 HYPERVISOR: exec_cmd: vm set_ios ESW8 /home/andre/GNS3/images/IOS/c3725-advipservicesk9-mz.124-21.bin 
+Apr 29 16:06:51.300 HYPERVISOR: exec_cmd: vm rename ESW8 F4R2 
+Apr 29 16:06:51.335 HYPERVISOR: exec_cmd: vm set_ios F4R2 /home/andre/GNS3/images/IOS/c3725-advipservicesk9-mz.124-21.bin 
+Apr 29 16:13:18.018 HYPERVISOR: exec_cmd: nio create_udp udp-53307462-d99f-4853-8429-07a37a6314c9 10086 127.0.0.1 10087 
+Apr 29 16:13:18.230 HYPERVISOR: exec_cmd: vm slot_add_nio_binding F4R2 0 0 udp-53307462-d99f-4853-8429-07a37a6314c9 
+Apr 29 16:13:18.231 HYPERVISOR: exec_cmd: vm get_status F4R2 
+Apr 29 16:13:21.370 HYPERVISOR: exec_cmd: nio create_udp udp-1dbbc815-8f2c-4573-8111-74d87327f0d7 10092 127.0.0.1 10093 
+Apr 29 16:13:21.370 HYPERVISOR: exec_cmd: vm slot_add_nio_binding F4R2 0 1 udp-1dbbc815-8f2c-4573-8111-74d87327f0d7 
+Apr 29 16:13:21.371 HYPERVISOR: exec_cmd: vm get_status F4R2 
+Apr 29 16:13:48.902 HYPERVISOR: exec_cmd: vm set_ios F4R2 /home/andre/GNS3/images/IOS/c3725-advipservicesk9-mz.124-21.bin 
+Apr 29 16:15:38.718 HYPERVISOR: exec_cmd: nio create_udp udp-a2ae03d6-7f6e-453f-926f-5501117545ab 10118 127.0.0.1 10119 
+Apr 29 16:15:38.718 HYPERVISOR: exec_cmd: vm slot_add_nio_binding F4R2 1 0 udp-a2ae03d6-7f6e-453f-926f-5501117545ab 
+Apr 29 16:15:38.718 HYPERVISOR: exec_cmd: vm get_status F4R2 
+Apr 29 16:15:45.602 HYPERVISOR: exec_cmd: vm set_ios F4R2 /home/andre/GNS3/images/IOS/c3725-advipservicesk9-mz.124-21.bin 
+Apr 29 16:15:57.355 HYPERVISOR: exec_cmd: vm set_ios F4R2 /home/andre/GNS3/images/IOS/c3725-advipservicesk9-mz.124-21.bin 
+Apr 29 16:20:02.915 HYPERVISOR: exec_cmd: vm set_ios F4R2 /home/andre/GNS3/images/IOS/c3725-advipservicesk9-mz.124-21.bin 
+Apr 29 17:16:53.018 HYPERVISOR: exec_cmd: vm set_ios F4R2 /home/andre/GNS3/images/IOS/c3725-advipservicesk9-mz.124-21.bin 
+Apr 29 17:16:54.408 HYPERVISOR: exec_cmd: vm set_ios F4R2 /home/andre/GNS3/images/IOS/c3725-advipservicesk9-mz.124-21.bin 
+Apr 29 17:16:55.707 HYPERVISOR: exec_cmd: vm set_ios F4R2 /home/andre/GNS3/images/IOS/c3725-advipservicesk9-mz.124-21.bin 
+Apr 29 17:17:31.007 HYPERVISOR: exec_cmd: vm set_ios F4R2 /home/andre/GNS3/images/IOS/c3725-advipservicesk9-mz.124-21.bin 
+Apr 29 17:17:32.118 HYPERVISOR: exec_cmd: vm set_ios F4R2 /home/andre/GNS3/images/IOS/c3725-advipservicesk9-mz.124-21.bin 
+Apr 29 17:17:32.977 HYPERVISOR: exec_cmd: vm set_ios F4R2 /home/andre/GNS3/images/IOS/c3725-advipservicesk9-mz.124-21.bin 
+Apr 29 17:31:18.700 HYPERVISOR: exec_cmd: vm set_ios F4R2 /home/andre/GNS3/images/IOS/c3725-advipservicesk9-mz.124-21.bin 
+Apr 29 17:31:29.127 HYPERVISOR: exec_cmd: vm set_ios F4R2 /home/andre/GNS3/images/IOS/c3725-advipservicesk9-mz.124-21.bin 
+Apr 29 17:31:31.923 HYPERVISOR: exec_cmd: vm set_ios F4R2 /home/andre/GNS3/images/IOS/c3725-advipservicesk9-mz.124-21.bin 
+Apr 29 17:38:17.580 HYPERVISOR: exec_cmd: nio create_udp udp-71f25b26-e680-41b2-ba85-075ce9f2bd63 10234 127.0.0.1 10235 
+Apr 29 17:38:17.581 HYPERVISOR: exec_cmd: vm slot_add_nio_binding F4R2 1 1 udp-71f25b26-e680-41b2-ba85-075ce9f2bd63 
+Apr 29 17:38:17.581 HYPERVISOR: exec_cmd: vm get_status F4R2 
+Apr 29 17:39:50.563 HYPERVISOR: exec_cmd: nio create_udp udp-038f26ba-442f-4e99-89ad-99db5fa37dca 10252 127.0.0.1 10253 
+Apr 29 17:39:50.564 HYPERVISOR: exec_cmd: vm slot_add_nio_binding F4R2 1 2 udp-038f26ba-442f-4e99-89ad-99db5fa37dca 
+Apr 29 17:39:50.564 HYPERVISOR: exec_cmd: vm get_status F4R2 
+Apr 29 17:42:19.357 HYPERVISOR: exec_cmd: vm set_ios F4R2 /home/andre/GNS3/images/IOS/c3725-advipservicesk9-mz.124-21.bin 
+Apr 29 17:57:46.627 HYPERVISOR: exec_cmd: vm get_status F4R2 
+Apr 29 17:57:46.634 HYPERVISOR: exec_cmd: vm extract_config F4R2 
+Apr 29 17:57:46.772 HYPERVISOR: exec_cmd: vm get_status F4R2 
+Apr 29 17:57:46.773 HYPERVISOR: exec_cmd: vm extract_config F4R2 
+Apr 29 17:57:46.773 HYPERVISOR: exec_cmd: vm delete F4R2 
+Apr 29 17:57:46.773 VM: VM F4R2 destroyed.
+Apr 29 17:57:46.774 HYPERVISOR: exec_cmd: hypervisor stop 
+Apr 29 17:57:47.043 HYPERVISOR: Stopped.
+Apr 29 17:57:47.043 GENERAL: reset done.

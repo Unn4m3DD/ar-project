@@ -1,10 +1,9 @@
-Apr 29 16:52:23.778 HYPERVISOR: Release 0.2.21-amd64/Linux (tag 2019071212)
-Apr 29 16:52:23.778 HYPERVISOR: Started on IP = localhost, TCP port = 48525.
-Apr 29 16:52:23.821 HYPERVISOR: exec_cmd: hypervisor version 
-Apr 29 16:52:23.824 HYPERVISOR: exec_cmd: hypervisor working_dir /home/andre/GNS3/projects/ar-project/project-files/dynamips 
-Apr 29 16:52:23.824 GENERAL: working_dir=/home/andre/GNS3/projects/ar-project/project-files/dynamips
-Apr 29 16:52:23.824 HYPERVISOR: exec_cmd: ethsw create Switch10 
-Apr 29 16:52:30.984 HYPERVISOR: exec_cmd: ethsw delete Switch10 
-Apr 29 16:52:30.984 HYPERVISOR: exec_cmd: hypervisor stop 
-Apr 29 16:52:31.327 HYPERVISOR: Stopped.
-Apr 29 16:52:31.327 GENERAL: reset done.
+May 01 15:20:19.203 HYPERVISOR: Release 0.2.21-amd64/Linux (tag 2019071212)
+May 01 15:20:19.203 HYPERVISOR: Started on IP = localhost, TCP port = 59439.
+May 01 15:20:19.212 HYPERVISOR: exec_cmd: hypervisor version 
+May 01 15:20:19.212 HYPERVISOR: exec_cmd: hypervisor working_dir /home/andre/repos/ar-project/gns-project/project-files/dynamips 
+May 01 15:20:19.212 GENERAL: working_dir=/home/andre/repos/ar-project/gns-project/project-files/dynamips
+May 01 15:20:19.213 HYPERVISOR: exec_cmd: ethsw create Switch14 
+May 01 15:20:24.728 HYPERVISOR: exec_cmd: nio create_udp udp-e041d056-56d9-4d94-8836-3678c5513739 10201 127.0.0.1 10200 
+May 01 15:20:24.728 HYPERVISOR: exec_cmd: ethsw add_nio Switch14 udp-e041d056-56d9-4d94-8836-3678c5513739 
+May 01 15:20:24.740 HYPERVISOR: exec_cmd: ethsw set_access_port Switch14 udp-e041d056-56d9-4d94-8836-3678c5513739 1 

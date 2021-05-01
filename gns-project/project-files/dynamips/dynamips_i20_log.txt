@@ -1,18 +1,21 @@
-Apr 29 16:46:09.722 HYPERVISOR: Release 0.2.21-amd64/Linux (tag 2019071212)
-Apr 29 16:46:09.722 HYPERVISOR: Started on IP = localhost, TCP port = 45773.
-Apr 29 16:46:09.733 HYPERVISOR: exec_cmd: hypervisor version 
-Apr 29 16:46:09.733 HYPERVISOR: exec_cmd: hypervisor working_dir /home/andre/GNS3/projects/ar-project/project-files/dynamips 
-Apr 29 16:46:09.733 GENERAL: working_dir=/home/andre/GNS3/projects/ar-project/project-files/dynamips
-Apr 29 16:46:09.733 HYPERVISOR: exec_cmd: ethsw create Switch6 
-Apr 29 16:46:51.446 HYPERVISOR: exec_cmd: nio create_udp udp-413e8578-7946-45fd-8784-dc5d1bf39db7 10163 127.0.0.1 10162 
-Apr 29 16:46:51.446 HYPERVISOR: exec_cmd: ethsw add_nio Switch6 udp-413e8578-7946-45fd-8784-dc5d1bf39db7 
-Apr 29 16:46:51.457 HYPERVISOR: exec_cmd: ethsw set_access_port Switch6 udp-413e8578-7946-45fd-8784-dc5d1bf39db7 1 
-Apr 29 16:48:04.647 HYPERVISOR: exec_cmd: ethsw set_access_port Switch6 udp-413e8578-7946-45fd-8784-dc5d1bf39db7 1 
-Apr 29 16:48:06.493 HYPERVISOR: exec_cmd: ethsw set_access_port Switch6 udp-413e8578-7946-45fd-8784-dc5d1bf39db7 1 
-Apr 29 16:48:37.249 HYPERVISOR: exec_cmd: ethsw set_access_port Switch6 udp-413e8578-7946-45fd-8784-dc5d1bf39db7 1 
-Apr 29 16:48:42.772 HYPERVISOR: exec_cmd: ethsw set_access_port Switch6 udp-413e8578-7946-45fd-8784-dc5d1bf39db7 1 
-Apr 29 16:49:15.711 HYPERVISOR: exec_cmd: ethsw set_access_port Switch6 udp-413e8578-7946-45fd-8784-dc5d1bf39db7 1 
-Apr 29 17:16:52.708 HYPERVISOR: exec_cmd: ethsw set_access_port Switch6 udp-413e8578-7946-45fd-8784-dc5d1bf39db7 1 
-Apr 29 17:16:54.235 HYPERVISOR: exec_cmd: ethsw set_access_port Switch6 udp-413e8578-7946-45fd-8784-dc5d1bf39db7 1 
-Apr 29 17:16:54.630 HYPERVISOR: exec_cmd: ethsw set_access_port Switch6 udp-413e8578-7946-45fd-8784-dc5d1bf39db7 1 
-Apr 29 17:17:30.676 HYPERVISOR: exec_cmd: ethsw set_access_port Switch6 udp-413e8578-7946-45fd-8784-dc5d1bf39db7 1 
+May 01 15:20:19.126 HYPERVISOR: Release 0.2.21-amd64/Linux (tag 2019071212)
+May 01 15:20:19.126 HYPERVISOR: Started on IP = localhost, TCP port = 32895.
+May 01 15:20:19.136 HYPERVISOR: exec_cmd: hypervisor version 
+May 01 15:20:19.136 HYPERVISOR: exec_cmd: hypervisor working_dir /home/andre/repos/ar-project/gns-project/project-files/dynamips 
+May 01 15:20:19.136 GENERAL: working_dir=/home/andre/repos/ar-project/gns-project/project-files/dynamips
+May 01 15:20:19.136 HYPERVISOR: exec_cmd: ethsw create Switch10 
+May 01 15:20:23.968 HYPERVISOR: exec_cmd: nio create_udp udp-5650292e-e44d-47af-8682-9dce2cbedbe2 10177 127.0.0.1 10176 
+May 01 15:20:23.968 HYPERVISOR: exec_cmd: ethsw add_nio Switch10 udp-5650292e-e44d-47af-8682-9dce2cbedbe2 
+May 01 15:20:23.980 HYPERVISOR: exec_cmd: ethsw set_access_port Switch10 udp-5650292e-e44d-47af-8682-9dce2cbedbe2 1 
+May 01 15:20:24.048 HYPERVISOR: exec_cmd: nio create_udp udp-390149d2-40a3-415f-98ca-0aedc7388bf1 10179 127.0.0.1 10178 
+May 01 15:20:24.048 HYPERVISOR: exec_cmd: ethsw add_nio Switch10 udp-390149d2-40a3-415f-98ca-0aedc7388bf1 
+May 01 15:20:24.061 HYPERVISOR: exec_cmd: ethsw set_access_port Switch10 udp-390149d2-40a3-415f-98ca-0aedc7388bf1 1 
+May 01 15:20:24.128 HYPERVISOR: exec_cmd: nio create_udp udp-28d12b38-a0ad-47ba-87c1-2a7cf98c69fb 10181 127.0.0.1 10180 
+May 01 15:20:24.129 HYPERVISOR: exec_cmd: ethsw add_nio Switch10 udp-28d12b38-a0ad-47ba-87c1-2a7cf98c69fb 
+May 01 15:20:24.141 HYPERVISOR: exec_cmd: ethsw set_access_port Switch10 udp-28d12b38-a0ad-47ba-87c1-2a7cf98c69fb 1 
+May 01 15:20:24.209 HYPERVISOR: exec_cmd: nio create_udp udp-79cfe475-cd15-455b-b466-1fe2bc9fdcd8 10183 127.0.0.1 10182 
+May 01 15:20:24.209 HYPERVISOR: exec_cmd: ethsw add_nio Switch10 udp-79cfe475-cd15-455b-b466-1fe2bc9fdcd8 
+May 01 15:20:24.221 HYPERVISOR: exec_cmd: ethsw set_access_port Switch10 udp-79cfe475-cd15-455b-b466-1fe2bc9fdcd8 1 
+May 01 15:20:24.289 HYPERVISOR: exec_cmd: nio create_udp udp-61cac5db-9101-4731-822a-3f61c4002438 10185 127.0.0.1 10184 
+May 01 15:20:24.289 HYPERVISOR: exec_cmd: ethsw add_nio Switch10 udp-61cac5db-9101-4731-822a-3f61c4002438 
+May 01 15:20:24.302 HYPERVISOR: exec_cmd: ethsw set_access_port Switch10 udp-61cac5db-9101-4731-822a-3f61c4002438 1 

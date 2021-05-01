@@ -1,16 +1,18 @@
-Apr 29 17:14:04.485 HYPERVISOR: Release 0.2.21-amd64/Linux (tag 2019071212)
-Apr 29 17:14:04.485 HYPERVISOR: Started on IP = localhost, TCP port = 35713.
-Apr 29 17:14:04.495 HYPERVISOR: exec_cmd: hypervisor version 
-Apr 29 17:14:04.495 HYPERVISOR: exec_cmd: hypervisor working_dir /home/andre/GNS3/projects/ar-project/project-files/dynamips 
-Apr 29 17:14:04.495 GENERAL: working_dir=/home/andre/GNS3/projects/ar-project/project-files/dynamips
-Apr 29 17:14:04.495 HYPERVISOR: exec_cmd: ethsw create Switch14 
-Apr 29 17:15:55.839 HYPERVISOR: exec_cmd: nio create_udp udp-5e283a91-a548-4696-b0a3-0a2d130d098b 10201 127.0.0.1 10200 
-Apr 29 17:15:55.840 HYPERVISOR: exec_cmd: ethsw add_nio Switch14 udp-5e283a91-a548-4696-b0a3-0a2d130d098b 
-Apr 29 17:15:55.846 HYPERVISOR: exec_cmd: ethsw set_access_port Switch14 udp-5e283a91-a548-4696-b0a3-0a2d130d098b 1 
-Apr 29 17:16:02.842 HYPERVISOR: exec_cmd: ethsw set_access_port Switch14 udp-5e283a91-a548-4696-b0a3-0a2d130d098b 1 
-Apr 29 17:16:53.234 HYPERVISOR: exec_cmd: ethsw set_access_port Switch14 udp-5e283a91-a548-4696-b0a3-0a2d130d098b 1 
-Apr 29 17:16:54.905 HYPERVISOR: exec_cmd: ethsw set_access_port Switch14 udp-5e283a91-a548-4696-b0a3-0a2d130d098b 1 
-Apr 29 17:16:55.796 HYPERVISOR: exec_cmd: ethsw set_access_port Switch14 udp-5e283a91-a548-4696-b0a3-0a2d130d098b 1 
-Apr 29 17:17:31.181 HYPERVISOR: exec_cmd: ethsw set_access_port Switch14 udp-5e283a91-a548-4696-b0a3-0a2d130d098b 1 
-Apr 29 17:17:32.239 HYPERVISOR: exec_cmd: ethsw set_access_port Switch14 udp-5e283a91-a548-4696-b0a3-0a2d130d098b 1 
-Apr 29 17:17:32.980 HYPERVISOR: exec_cmd: ethsw set_access_port Switch14 udp-5e283a91-a548-4696-b0a3-0a2d130d098b 1 
+May 01 15:20:19.316 HYPERVISOR: Release 0.2.21-amd64/Linux (tag 2019071212)
+May 01 15:20:19.316 HYPERVISOR: Started on IP = localhost, TCP port = 60629.
+May 01 15:20:19.325 HYPERVISOR: exec_cmd: hypervisor version 
+May 01 15:20:19.326 HYPERVISOR: exec_cmd: hypervisor working_dir /home/andre/repos/ar-project/gns-project/project-files/dynamips 
+May 01 15:20:19.326 GENERAL: working_dir=/home/andre/repos/ar-project/gns-project/project-files/dynamips
+May 01 15:20:19.326 HYPERVISOR: exec_cmd: ethsw create Switch20 
+May 01 15:20:25.423 HYPERVISOR: exec_cmd: nio create_udp udp-c6a2bf3a-52a2-4a60-8e58-ce00b0d5bcbc 10228 127.0.0.1 10229 
+May 01 15:20:25.423 HYPERVISOR: exec_cmd: ethsw add_nio Switch20 udp-c6a2bf3a-52a2-4a60-8e58-ce00b0d5bcbc 
+May 01 15:20:25.435 HYPERVISOR: exec_cmd: ethsw set_access_port Switch20 udp-c6a2bf3a-52a2-4a60-8e58-ce00b0d5bcbc 1 
+May 01 15:20:25.488 HYPERVISOR: exec_cmd: nio create_udp udp-d65a043b-eaeb-4dcf-aef4-d354c2da0ac8 10232 127.0.0.1 10233 
+May 01 15:20:25.488 HYPERVISOR: exec_cmd: ethsw add_nio Switch20 udp-d65a043b-eaeb-4dcf-aef4-d354c2da0ac8 
+May 01 15:20:25.495 HYPERVISOR: exec_cmd: ethsw set_access_port Switch20 udp-d65a043b-eaeb-4dcf-aef4-d354c2da0ac8 1 
+May 01 15:20:25.549 HYPERVISOR: exec_cmd: nio create_udp udp-556432d8-629b-43c0-906d-d5d6cbad0d46 10236 127.0.0.1 10237 
+May 01 15:20:25.549 HYPERVISOR: exec_cmd: ethsw add_nio Switch20 udp-556432d8-629b-43c0-906d-d5d6cbad0d46 
+May 01 15:20:25.555 HYPERVISOR: exec_cmd: ethsw set_access_port Switch20 udp-556432d8-629b-43c0-906d-d5d6cbad0d46 1 
+May 01 15:20:25.623 HYPERVISOR: exec_cmd: nio create_udp udp-6c578edd-dd6b-4d95-8d4e-d3d7b3661cdf 10238 127.0.0.1 10239 
+May 01 15:20:25.623 HYPERVISOR: exec_cmd: ethsw add_nio Switch20 udp-6c578edd-dd6b-4d95-8d4e-d3d7b3661cdf 
+May 01 15:20:25.635 HYPERVISOR: exec_cmd: ethsw set_access_port Switch20 udp-6c578edd-dd6b-4d95-8d4e-d3d7b3661cdf 1 

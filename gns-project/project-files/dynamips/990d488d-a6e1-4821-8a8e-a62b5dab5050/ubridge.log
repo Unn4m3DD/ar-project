@@ -1,13 +1,5 @@
 uBridge version 0.9.18 running with libpcap version 1.10.0 (with TPACKET_V3)
-Hypervisor TCP control server started (IP localhost port 41179).
-UDP tunnel connecting from local port 10005 to IPv4 address 127.0.0.1 on port 10004
-UDP tunnel connecting from local port 10001 to IPv4 address 127.0.0.1 on port 10000
-Destination NIO listener thread for DYNAMIPS-10004-10005 has started
-Source NIO listener thread for DYNAMIPS-10004-10005 has started
-UDP tunnel connecting from local port 10009 to IPv4 address 127.0.0.1 on port 10008
-UDP tunnel connecting from local port 10006 to IPv4 address 127.0.0.1 on port 10007
-Source NIO listener thread for DYNAMIPS-10008-10009 has started
-Destination NIO listener thread for DYNAMIPS-10008-10009 has started
+Hypervisor TCP control server started (IP localhost port 44311).
 UDP tunnel connecting from local port 10003 to IPv4 address 127.0.0.1 on port 10002
 UDP tunnel connecting from local port 10000 to IPv4 address 127.0.0.1 on port 10001
 Source NIO listener thread for DYNAMIPS-10002-10003 has started
@@ -22,13 +14,13 @@ Source NIO listener thread for DYNAMIPS-10098-10099 has started
 Destination NIO listener thread for DYNAMIPS-10098-10099 has started
 UDP tunnel connecting from local port 10123 to IPv4 address 127.0.0.1 on port 10122
 UDP tunnel connecting from local port 10120 to IPv4 address 127.0.0.1 on port 10121
-Destination NIO listener thread for DYNAMIPS-10122-10123 has started
 Source NIO listener thread for DYNAMIPS-10122-10123 has started
+Destination NIO listener thread for DYNAMIPS-10122-10123 has started
 UDP tunnel connecting from local port 10127 to IPv4 address 127.0.0.1 on port 10126
 UDP tunnel connecting from local port 10124 to IPv4 address 127.0.0.1 on port 10125
 Source NIO listener thread for DYNAMIPS-10126-10127 has started
 Destination NIO listener thread for DYNAMIPS-10126-10127 has started
 UDP tunnel connecting from local port 10131 to IPv4 address 127.0.0.1 on port 10130
 UDP tunnel connecting from local port 10128 to IPv4 address 127.0.0.1 on port 10129
-Destination NIO listener thread for DYNAMIPS-10130-10131 has started
 Source NIO listener thread for DYNAMIPS-10130-10131 has started
+Destination NIO listener thread for DYNAMIPS-10130-10131 has started

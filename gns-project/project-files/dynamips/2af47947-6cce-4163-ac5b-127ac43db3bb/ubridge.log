@@ -1,25 +1,17 @@
 uBridge version 0.9.18 running with libpcap version 1.10.0 (with TPACKET_V3)
-Hypervisor TCP control server started (IP localhost port 42939).
+Hypervisor TCP control server started (IP localhost port 39041).
 UDP tunnel connecting from local port 10039 to IPv4 address 127.0.0.1 on port 10038
 UDP tunnel connecting from local port 10036 to IPv4 address 127.0.0.1 on port 10037
 Source NIO listener thread for DYNAMIPS-10038-10039 has started
 Destination NIO listener thread for DYNAMIPS-10038-10039 has started
 UDP tunnel connecting from local port 10045 to IPv4 address 127.0.0.1 on port 10044
 UDP tunnel connecting from local port 10042 to IPv4 address 127.0.0.1 on port 10043
-Source NIO listener thread for DYNAMIPS-10044-10045 has started
 Destination NIO listener thread for DYNAMIPS-10044-10045 has started
-UDP tunnel connecting from local port 10039 to IPv4 address 127.0.0.1 on port 10038
-UDP tunnel connecting from local port 10036 to IPv4 address 127.0.0.1 on port 10037
-Source NIO listener thread for DYNAMIPS-10038-10039 has started
-Destination NIO listener thread for DYNAMIPS-10038-10039 has started
-UDP tunnel connecting from local port 10045 to IPv4 address 127.0.0.1 on port 10044
-UDP tunnel connecting from local port 10042 to IPv4 address 127.0.0.1 on port 10043
 Source NIO listener thread for DYNAMIPS-10044-10045 has started
-Destination NIO listener thread for DYNAMIPS-10044-10045 has started
 UDP tunnel connecting from local port 10107 to IPv4 address 127.0.0.1 on port 10106
 UDP tunnel connecting from local port 10103 to IPv4 address 127.0.0.1 on port 10102
-Source NIO listener thread for DYNAMIPS-10106-10107 has started
 Destination NIO listener thread for DYNAMIPS-10106-10107 has started
+Source NIO listener thread for DYNAMIPS-10106-10107 has started
 UDP tunnel connecting from local port 10175 to IPv4 address 127.0.0.1 on port 10174
 UDP tunnel connecting from local port 10172 to IPv4 address 127.0.0.1 on port 10173
 Source NIO listener thread for DYNAMIPS-10174-10175 has started

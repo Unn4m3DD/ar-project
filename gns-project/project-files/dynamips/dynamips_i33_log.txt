@@ -1,12 +1,32 @@
-Apr 29 17:20:34.210 HYPERVISOR: Release 0.2.21-amd64/Linux (tag 2019071212)
-Apr 29 17:20:34.210 HYPERVISOR: Started on IP = localhost, TCP port = 57775.
-Apr 29 17:20:34.220 HYPERVISOR: exec_cmd: hypervisor version 
-Apr 29 17:20:34.220 HYPERVISOR: exec_cmd: hypervisor working_dir /home/andre/GNS3/projects/ar-project/project-files/dynamips 
-Apr 29 17:20:34.220 GENERAL: working_dir=/home/andre/GNS3/projects/ar-project/project-files/dynamips
-Apr 29 17:20:34.220 HYPERVISOR: exec_cmd: ethsw create Switch16 
-Apr 29 17:20:39.393 HYPERVISOR: exec_cmd: nio create_udp udp-895a6845-f5e1-4ca3-a724-3f408b3c3d6f 10203 127.0.0.1 10202 
-Apr 29 17:20:39.393 HYPERVISOR: exec_cmd: ethsw add_nio Switch16 udp-895a6845-f5e1-4ca3-a724-3f408b3c3d6f 
-Apr 29 17:20:39.405 HYPERVISOR: exec_cmd: ethsw set_access_port Switch16 udp-895a6845-f5e1-4ca3-a724-3f408b3c3d6f 1 
-Apr 29 17:20:44.672 HYPERVISOR: exec_cmd: nio create_udp udp-48fb064e-45c2-4d1f-836c-0299056d1461 10205 127.0.0.1 10204 
-Apr 29 17:20:44.672 HYPERVISOR: exec_cmd: ethsw add_nio Switch16 udp-48fb064e-45c2-4d1f-836c-0299056d1461 
-Apr 29 17:20:44.685 HYPERVISOR: exec_cmd: ethsw set_access_port Switch16 udp-48fb064e-45c2-4d1f-836c-0299056d1461 1 
+May 01 15:20:19.374 HYPERVISOR: Release 0.2.21-amd64/Linux (tag 2019071212)
+May 01 15:20:19.374 HYPERVISOR: Started on IP = localhost, TCP port = 54485.
+May 01 15:20:19.383 HYPERVISOR: exec_cmd: hypervisor version 
+May 01 15:20:19.384 HYPERVISOR: exec_cmd: hypervisor working_dir /home/andre/repos/ar-project/gns-project/project-files/dynamips 
+May 01 15:20:19.384 GENERAL: working_dir=/home/andre/repos/ar-project/gns-project/project-files/dynamips
+May 01 15:20:19.384 HYPERVISOR: exec_cmd: hypervisor working_dir /home/andre/repos/ar-project/gns-project/project-files/dynamips/8b5b9d7e-4db4-497c-ab61-477036a0ddc4 
+May 01 15:20:19.384 GENERAL: working_dir=/home/andre/repos/ar-project/gns-project/project-files/dynamips/8b5b9d7e-4db4-497c-ab61-477036a0ddc4
+May 01 15:20:19.384 HYPERVISOR: exec_cmd: vm create RadioAntenna 11 c7200 
+May 01 15:20:19.384 VM: VM RadioAntenna created.
+May 01 15:20:19.384 HYPERVISOR: exec_cmd: vm set_con_tcp_port RadioAntenna 5032 
+May 01 15:20:19.384 HYPERVISOR: exec_cmd: c7200 get_mac_addr RadioAntenna 
+May 01 15:20:19.384 HYPERVISOR: exec_cmd: vm get_status RadioAntenna 
+May 01 15:20:19.384 HYPERVISOR: exec_cmd: vm slot_add_binding RadioAntenna 0 0 C7200-IO-FE 
+May 01 15:20:19.384 HYPERVISOR: exec_cmd: vm set_disk0 RadioAntenna 0 
+May 01 15:20:19.385 HYPERVISOR: exec_cmd: vm get_status RadioAntenna 
+May 01 15:20:19.385 HYPERVISOR: exec_cmd: vm set_idle_pc RadioAntenna 0x60616340 
+May 01 15:20:19.385 HYPERVISOR: exec_cmd: vm set_ios RadioAntenna /home/andre/GNS3/images/IOS/c7200-adventerprisek9-mz.151-4.M2.bin 
+May 01 15:20:19.385 HYPERVISOR: exec_cmd: c7200 set_mac_addr RadioAntenna ca0b.36b6.0000 
+May 01 15:20:19.385 HYPERVISOR: exec_cmd: vm set_nvram RadioAntenna 512 
+May 01 15:20:19.385 HYPERVISOR: exec_cmd: vm set_ram RadioAntenna 512 
+May 01 15:20:19.386 HYPERVISOR: exec_cmd: vm get_status RadioAntenna 
+May 01 15:20:19.386 HYPERVISOR: exec_cmd: vm slot_add_binding RadioAntenna 1 0 PA-2FE-TX 
+May 01 15:20:19.386 HYPERVISOR: exec_cmd: vm get_status RadioAntenna 
+May 01 15:20:19.386 HYPERVISOR: exec_cmd: vm slot_add_binding RadioAntenna 2 0 PA-2FE-TX 
+May 01 15:20:19.386 HYPERVISOR: exec_cmd: vm get_status RadioAntenna 
+May 01 15:20:19.386 HYPERVISOR: exec_cmd: vm slot_add_binding RadioAntenna 3 0 PA-2FE-TX 
+May 01 15:20:19.386 HYPERVISOR: exec_cmd: vm get_status RadioAntenna 
+May 01 15:20:19.386 HYPERVISOR: exec_cmd: vm slot_add_binding RadioAntenna 4 0 PA-2FE-TX 
+May 01 15:20:19.386 HYPERVISOR: exec_cmd: vm get_status RadioAntenna 
+May 01 15:20:19.386 HYPERVISOR: exec_cmd: vm slot_add_binding RadioAntenna 5 0 PA-2FE-TX 
+May 01 15:20:19.386 HYPERVISOR: exec_cmd: vm get_status RadioAntenna 
+May 01 15:20:19.386 HYPERVISOR: exec_cmd: vm slot_add_binding RadioAntenna 6 0 PA-2FE-TX 
