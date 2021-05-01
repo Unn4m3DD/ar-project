@@ -10,3 +10,9 @@ May 01 15:20:24.480 HYPERVISOR: exec_cmd: ethsw set_access_port Switch12 udp-e31
 May 01 15:20:24.549 HYPERVISOR: exec_cmd: nio create_udp udp-276c311d-b68b-4ce4-ab06-319b94190d59 10196 127.0.0.1 10197 
 May 01 15:20:24.549 HYPERVISOR: exec_cmd: ethsw add_nio Switch12 udp-276c311d-b68b-4ce4-ab06-319b94190d59 
 May 01 15:20:24.560 HYPERVISOR: exec_cmd: ethsw set_access_port Switch12 udp-276c311d-b68b-4ce4-ab06-319b94190d59 1 
+May 01 15:26:56.329 HYPERVISOR: exec_cmd: ethsw set_access_port Switch12 udp-e313e2f2-f9bc-4591-a220-bfa3de986b45 1 
+May 01 15:26:56.336 HYPERVISOR: exec_cmd: ethsw set_access_port Switch12 udp-276c311d-b68b-4ce4-ab06-319b94190d59 1 
+May 01 15:27:13.821 HYPERVISOR: exec_cmd: ethsw set_access_port Switch12 udp-e313e2f2-f9bc-4591-a220-bfa3de986b45 1 
+May 01 15:27:13.828 HYPERVISOR: exec_cmd: ethsw set_access_port Switch12 udp-276c311d-b68b-4ce4-ab06-319b94190d59 1 
+May 01 15:32:04.630 HYPERVISOR: exec_cmd: ethsw set_access_port Switch12 udp-e313e2f2-f9bc-4591-a220-bfa3de986b45 1 
+May 01 15:32:04.640 HYPERVISOR: exec_cmd: ethsw set_access_port Switch12 udp-276c311d-b68b-4ce4-ab06-319b94190d59 1 

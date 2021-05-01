@@ -7,3 +7,6 @@ May 01 15:20:19.307 HYPERVISOR: exec_cmd: ethsw create Switch19
 May 01 15:20:25.362 HYPERVISOR: exec_cmd: nio create_udp udp-b47422b7-79ee-4095-b223-4de5007f3295 10227 127.0.0.1 10226 
 May 01 15:20:25.362 HYPERVISOR: exec_cmd: ethsw add_nio Switch19 udp-b47422b7-79ee-4095-b223-4de5007f3295 
 May 01 15:20:25.376 HYPERVISOR: exec_cmd: ethsw set_access_port Switch19 udp-b47422b7-79ee-4095-b223-4de5007f3295 1 
+May 01 15:26:56.005 HYPERVISOR: exec_cmd: ethsw set_access_port Switch19 udp-b47422b7-79ee-4095-b223-4de5007f3295 1 
+May 01 15:27:13.489 HYPERVISOR: exec_cmd: ethsw set_access_port Switch19 udp-b47422b7-79ee-4095-b223-4de5007f3295 1 
+May 01 15:32:04.292 HYPERVISOR: exec_cmd: ethsw set_access_port Switch19 udp-b47422b7-79ee-4095-b223-4de5007f3295 1 

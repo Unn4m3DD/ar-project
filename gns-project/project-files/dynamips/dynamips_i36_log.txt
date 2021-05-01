@@ -1,0 +1,47 @@
+May 01 15:43:03.691 HYPERVISOR: Release 0.2.21-amd64/Linux (tag 2019071212)
+May 01 15:43:03.691 HYPERVISOR: Started on IP = localhost, TCP port = 45575.
+May 01 15:43:03.700 HYPERVISOR: exec_cmd: hypervisor version 
+May 01 15:43:03.701 HYPERVISOR: exec_cmd: hypervisor working_dir /home/andre/repos/ar-project/gns-project/project-files/dynamips 
+May 01 15:43:03.701 GENERAL: working_dir=/home/andre/repos/ar-project/gns-project/project-files/dynamips
+May 01 15:43:03.701 HYPERVISOR: exec_cmd: hypervisor working_dir /home/andre/repos/ar-project/gns-project/project-files/dynamips/a4f006c2-7344-4acb-a31c-889cd502226f 
+May 01 15:43:03.701 GENERAL: working_dir=/home/andre/repos/ar-project/gns-project/project-files/dynamips/a4f006c2-7344-4acb-a31c-889cd502226f
+May 01 15:43:03.701 HYPERVISOR: exec_cmd: vm create F4R4 14 c3725 
+May 01 15:43:03.701 VM: VM F4R4 created.
+May 01 15:43:03.701 HYPERVISOR: exec_cmd: vm set_con_tcp_port F4R4 5039 
+May 01 15:43:03.701 HYPERVISOR: exec_cmd: c3725 get_mac_addr F4R4 
+May 01 15:43:03.701 HYPERVISOR: exec_cmd: vm set_disk0 F4R4 1 
+May 01 15:43:03.701 HYPERVISOR: exec_cmd: vm get_status F4R4 
+May 01 15:43:03.701 HYPERVISOR: exec_cmd: vm set_idle_pc F4R4 0x60a6a1e0 
+May 01 15:43:03.702 HYPERVISOR: exec_cmd: vm set_ios F4R4 /home/andre/GNS3/images/IOS/c3725-advipservicesk9-mz.124-21.bin 
+May 01 15:43:03.702 HYPERVISOR: exec_cmd: vm set_nvram F4R4 256 
+May 01 15:43:03.702 HYPERVISOR: exec_cmd: vm get_status F4R4 
+May 01 15:43:03.702 HYPERVISOR: exec_cmd: vm slot_add_binding F4R4 1 0 NM-16ESW 
+May 01 15:43:03.703 HYPERVISOR: exec_cmd: vm set_con_tcp_port F4R4 5039 
+May 01 15:43:03.759 HYPERVISOR: exec_cmd: vm rename F4R4 F4R3 
+May 01 15:43:03.760 HYPERVISOR: exec_cmd: vm rename F4R3 F4R4 
+May 01 15:43:04.658 HYPERVISOR: exec_cmd: vm set_ios F4R4 /home/andre/GNS3/images/IOS/c3725-advipservicesk9-mz.124-21.bin 
+May 01 15:43:15.777 HYPERVISOR: exec_cmd: vm set_ios F4R4 /home/andre/GNS3/images/IOS/c3725-advipservicesk9-mz.124-21.bin 
+May 01 15:43:15.777 HYPERVISOR: exec_cmd: vm rename F4R4 ISP2 
+May 01 15:43:15.842 HYPERVISOR: exec_cmd: vm set_ios ISP2 /home/andre/GNS3/images/IOS/c3725-advipservicesk9-mz.124-21.bin 
+May 01 15:43:17.655 HYPERVISOR: exec_cmd: vm set_ios ISP2 /home/andre/GNS3/images/IOS/c3725-advipservicesk9-mz.124-21.bin 
+May 01 15:43:18.909 HYPERVISOR: exec_cmd: vm set_ios ISP2 /home/andre/GNS3/images/IOS/c3725-advipservicesk9-mz.124-21.bin 
+May 01 15:43:50.422 HYPERVISOR: exec_cmd: vm set_ios ISP2 /home/andre/GNS3/images/IOS/c3725-advipservicesk9-mz.124-21.bin 
+May 01 15:43:50.422 HYPERVISOR: exec_cmd: vm rename ISP2 ID2 
+May 01 15:43:50.487 HYPERVISOR: exec_cmd: vm set_ios ID2 /home/andre/GNS3/images/IOS/c3725-advipservicesk9-mz.124-21.bin 
+May 01 15:49:00.781 HYPERVISOR: exec_cmd: nio create_udp udp-37172fdd-571f-4a0b-94bb-4a319be7f725 10288 127.0.0.1 10289 
+May 01 15:49:00.989 HYPERVISOR: exec_cmd: vm slot_add_nio_binding ID2 0 0 udp-37172fdd-571f-4a0b-94bb-4a319be7f725 
+May 01 15:49:00.990 HYPERVISOR: exec_cmd: vm get_status ID2 
+May 01 15:49:04.292 HYPERVISOR: exec_cmd: nio create_udp udp-be553025-a9a2-4f63-a56d-427e22f52558 10294 127.0.0.1 10295 
+May 01 15:49:04.292 HYPERVISOR: exec_cmd: vm slot_add_nio_binding ID2 0 1 udp-be553025-a9a2-4f63-a56d-427e22f52558 
+May 01 15:49:04.292 HYPERVISOR: exec_cmd: vm get_status ID2 
+May 01 15:49:21.936 HYPERVISOR: exec_cmd: vm set_ios ID2 /home/andre/GNS3/images/IOS/c3725-advipservicesk9-mz.124-21.bin 
+May 01 15:49:24.005 HYPERVISOR: exec_cmd: vm set_ios ID2 /home/andre/GNS3/images/IOS/c3725-advipservicesk9-mz.124-21.bin 
+May 01 15:49:37.155 HYPERVISOR: exec_cmd: vm set_ios ID2 /home/andre/GNS3/images/IOS/c3725-advipservicesk9-mz.124-21.bin 
+May 01 15:50:57.183 HYPERVISOR: exec_cmd: nio create_udp udp-718625df-0ed9-48b7-82e0-63bd6ef88b00 10322 127.0.0.1 10323 
+May 01 15:50:57.184 HYPERVISOR: exec_cmd: vm slot_add_nio_binding ID2 1 0 udp-718625df-0ed9-48b7-82e0-63bd6ef88b00 
+May 01 15:50:57.184 HYPERVISOR: exec_cmd: vm get_status ID2 
+May 01 15:51:00.029 HYPERVISOR: exec_cmd: nio create_udp udp-4a3be244-fa91-4c5d-afbd-65ac2aeb34fe 10328 127.0.0.1 10329 
+May 01 15:51:00.030 HYPERVISOR: exec_cmd: vm slot_add_nio_binding ID2 1 1 udp-4a3be244-fa91-4c5d-afbd-65ac2aeb34fe 
+May 01 15:51:00.030 HYPERVISOR: exec_cmd: vm get_status ID2 
+May 01 15:51:11.743 HYPERVISOR: exec_cmd: vm set_ios ID2 /home/andre/GNS3/images/IOS/c3725-advipservicesk9-mz.124-21.bin 
+May 01 15:51:15.372 HYPERVISOR: exec_cmd: vm set_ios ID2 /home/andre/GNS3/images/IOS/c3725-advipservicesk9-mz.124-21.bin 

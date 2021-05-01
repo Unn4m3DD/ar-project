@@ -10,3 +10,21 @@ May 01 15:20:24.818 HYPERVISOR: exec_cmd: ethsw set_access_port Switch16 udp-f51
 May 01 15:20:24.885 HYPERVISOR: exec_cmd: nio create_udp udp-3acc7334-0983-4efd-8e3f-820a76219a92 10205 127.0.0.1 10204 
 May 01 15:20:24.885 HYPERVISOR: exec_cmd: ethsw add_nio Switch16 udp-3acc7334-0983-4efd-8e3f-820a76219a92 
 May 01 15:20:24.898 HYPERVISOR: exec_cmd: ethsw set_access_port Switch16 udp-3acc7334-0983-4efd-8e3f-820a76219a92 1 
+May 01 15:26:57.764 HYPERVISOR: exec_cmd: ethsw set_access_port Switch16 udp-f5119045-179a-4403-8f87-38b60b11f40b 1 
+May 01 15:26:57.765 HYPERVISOR: exec_cmd: ethsw set_access_port Switch16 udp-3acc7334-0983-4efd-8e3f-820a76219a92 1 
+May 01 15:26:59.939 HYPERVISOR: exec_cmd: ethsw set_access_port Switch16 udp-f5119045-179a-4403-8f87-38b60b11f40b 1 
+May 01 15:26:59.941 HYPERVISOR: exec_cmd: ethsw set_access_port Switch16 udp-3acc7334-0983-4efd-8e3f-820a76219a92 1 
+May 01 15:27:00.100 HYPERVISOR: exec_cmd: ethsw set_access_port Switch16 udp-f5119045-179a-4403-8f87-38b60b11f40b 1 
+May 01 15:27:00.103 HYPERVISOR: exec_cmd: ethsw set_access_port Switch16 udp-3acc7334-0983-4efd-8e3f-820a76219a92 1 
+May 01 15:27:15.219 HYPERVISOR: exec_cmd: ethsw set_access_port Switch16 udp-f5119045-179a-4403-8f87-38b60b11f40b 1 
+May 01 15:27:15.269 HYPERVISOR: exec_cmd: ethsw set_access_port Switch16 udp-3acc7334-0983-4efd-8e3f-820a76219a92 1 
+May 01 15:27:17.010 HYPERVISOR: exec_cmd: ethsw set_access_port Switch16 udp-f5119045-179a-4403-8f87-38b60b11f40b 1 
+May 01 15:27:17.061 HYPERVISOR: exec_cmd: ethsw set_access_port Switch16 udp-3acc7334-0983-4efd-8e3f-820a76219a92 1 
+May 01 15:27:20.100 HYPERVISOR: exec_cmd: ethsw set_access_port Switch16 udp-f5119045-179a-4403-8f87-38b60b11f40b 1 
+May 01 15:27:20.102 HYPERVISOR: exec_cmd: ethsw set_access_port Switch16 udp-3acc7334-0983-4efd-8e3f-820a76219a92 1 
+May 01 15:32:06.128 HYPERVISOR: exec_cmd: ethsw set_access_port Switch16 udp-f5119045-179a-4403-8f87-38b60b11f40b 1 
+May 01 15:32:06.177 HYPERVISOR: exec_cmd: ethsw set_access_port Switch16 udp-3acc7334-0983-4efd-8e3f-820a76219a92 1 
+May 01 15:32:07.501 HYPERVISOR: exec_cmd: ethsw set_access_port Switch16 udp-f5119045-179a-4403-8f87-38b60b11f40b 1 
+May 01 15:32:07.553 HYPERVISOR: exec_cmd: ethsw set_access_port Switch16 udp-3acc7334-0983-4efd-8e3f-820a76219a92 1 
+May 01 15:32:10.746 HYPERVISOR: exec_cmd: ethsw set_access_port Switch16 udp-f5119045-179a-4403-8f87-38b60b11f40b 1 
+May 01 15:32:10.748 HYPERVISOR: exec_cmd: ethsw set_access_port Switch16 udp-3acc7334-0983-4efd-8e3f-820a76219a92 1 

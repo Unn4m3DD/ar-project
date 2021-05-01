@@ -1,0 +1,1 @@
+May 01 15:26:27.310 VM: renamed from 'R1' to 'OldBuilding'

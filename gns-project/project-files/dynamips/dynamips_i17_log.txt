@@ -7,3 +7,10 @@ May 01 15:20:19.080 HYPERVISOR: exec_cmd: ethsw create Switch7
 May 01 15:20:23.692 HYPERVISOR: exec_cmd: nio create_udp udp-2559f9db-dc78-442d-a944-18f26ea8858c 10165 127.0.0.1 10164 
 May 01 15:20:23.692 HYPERVISOR: exec_cmd: ethsw add_nio Switch7 udp-2559f9db-dc78-442d-a944-18f26ea8858c 
 May 01 15:20:23.706 HYPERVISOR: exec_cmd: ethsw set_access_port Switch7 udp-2559f9db-dc78-442d-a944-18f26ea8858c 1 
+May 01 15:26:57.039 HYPERVISOR: exec_cmd: ethsw set_access_port Switch7 udp-2559f9db-dc78-442d-a944-18f26ea8858c 1 
+May 01 15:27:14.501 HYPERVISOR: exec_cmd: ethsw set_access_port Switch7 udp-2559f9db-dc78-442d-a944-18f26ea8858c 1 
+May 01 15:27:16.589 HYPERVISOR: exec_cmd: ethsw set_access_port Switch7 udp-2559f9db-dc78-442d-a944-18f26ea8858c 1 
+May 01 15:27:18.758 HYPERVISOR: exec_cmd: ethsw set_access_port Switch7 udp-2559f9db-dc78-442d-a944-18f26ea8858c 1 
+May 01 15:32:05.324 HYPERVISOR: exec_cmd: ethsw set_access_port Switch7 udp-2559f9db-dc78-442d-a944-18f26ea8858c 1 
+May 01 15:32:07.443 HYPERVISOR: exec_cmd: ethsw set_access_port Switch7 udp-2559f9db-dc78-442d-a944-18f26ea8858c 1 
+May 01 15:32:09.456 HYPERVISOR: exec_cmd: ethsw set_access_port Switch7 udp-2559f9db-dc78-442d-a944-18f26ea8858c 1 

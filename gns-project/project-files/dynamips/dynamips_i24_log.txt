@@ -7,3 +7,10 @@ May 01 15:20:19.213 HYPERVISOR: exec_cmd: ethsw create Switch14
 May 01 15:20:24.728 HYPERVISOR: exec_cmd: nio create_udp udp-e041d056-56d9-4d94-8836-3678c5513739 10201 127.0.0.1 10200 
 May 01 15:20:24.728 HYPERVISOR: exec_cmd: ethsw add_nio Switch14 udp-e041d056-56d9-4d94-8836-3678c5513739 
 May 01 15:20:24.740 HYPERVISOR: exec_cmd: ethsw set_access_port Switch14 udp-e041d056-56d9-4d94-8836-3678c5513739 1 
+May 01 15:26:57.707 HYPERVISOR: exec_cmd: ethsw set_access_port Switch14 udp-e041d056-56d9-4d94-8836-3678c5513739 1 
+May 01 15:27:15.214 HYPERVISOR: exec_cmd: ethsw set_access_port Switch14 udp-e041d056-56d9-4d94-8836-3678c5513739 1 
+May 01 15:27:16.224 HYPERVISOR: exec_cmd: ethsw set_access_port Switch14 udp-e041d056-56d9-4d94-8836-3678c5513739 1 
+May 01 15:27:19.950 HYPERVISOR: exec_cmd: ethsw set_access_port Switch14 udp-e041d056-56d9-4d94-8836-3678c5513739 1 
+May 01 15:32:06.073 HYPERVISOR: exec_cmd: ethsw set_access_port Switch14 udp-e041d056-56d9-4d94-8836-3678c5513739 1 
+May 01 15:32:07.176 HYPERVISOR: exec_cmd: ethsw set_access_port Switch14 udp-e041d056-56d9-4d94-8836-3678c5513739 1 
+May 01 15:32:10.595 HYPERVISOR: exec_cmd: ethsw set_access_port Switch14 udp-e041d056-56d9-4d94-8836-3678c5513739 1 

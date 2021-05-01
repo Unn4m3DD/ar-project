@@ -30,3 +30,23 @@ May 01 15:20:19.386 HYPERVISOR: exec_cmd: vm get_status RadioAntenna
 May 01 15:20:19.386 HYPERVISOR: exec_cmd: vm slot_add_binding RadioAntenna 5 0 PA-2FE-TX 
 May 01 15:20:19.386 HYPERVISOR: exec_cmd: vm get_status RadioAntenna 
 May 01 15:20:19.386 HYPERVISOR: exec_cmd: vm slot_add_binding RadioAntenna 6 0 PA-2FE-TX 
+May 01 15:20:25.789 HYPERVISOR: exec_cmd: nio create_udp udp-843d113a-cd51-4cd4-b70b-d9a0aa8100c0 10246 127.0.0.1 10247 
+May 01 15:20:25.997 HYPERVISOR: exec_cmd: vm slot_add_nio_binding RadioAntenna 0 0 udp-843d113a-cd51-4cd4-b70b-d9a0aa8100c0 
+May 01 15:20:25.997 HYPERVISOR: exec_cmd: vm get_status RadioAntenna 
+May 01 15:20:26.049 HYPERVISOR: exec_cmd: nio create_udp udp-f4948e2e-4b30-4c1a-890b-7b975456b061 10250 127.0.0.1 10251 
+May 01 15:20:26.050 HYPERVISOR: exec_cmd: vm slot_add_nio_binding RadioAntenna 1 0 udp-f4948e2e-4b30-4c1a-890b-7b975456b061 
+May 01 15:20:26.050 HYPERVISOR: exec_cmd: vm get_status RadioAntenna 
+May 01 15:26:56.326 HYPERVISOR: exec_cmd: vm set_ios RadioAntenna /home/andre/GNS3/images/IOS/c7200-adventerprisek9-mz.151-4.M2.bin 
+May 01 15:27:13.818 HYPERVISOR: exec_cmd: vm set_ios RadioAntenna /home/andre/GNS3/images/IOS/c7200-adventerprisek9-mz.151-4.M2.bin 
+May 01 15:32:04.627 HYPERVISOR: exec_cmd: vm set_ios RadioAntenna /home/andre/GNS3/images/IOS/c7200-adventerprisek9-mz.151-4.M2.bin 
+May 01 15:51:46.323 HYPERVISOR: exec_cmd: vm set_ios RadioAntenna /home/andre/GNS3/images/IOS/c7200-adventerprisek9-mz.151-4.M2.bin 
+May 01 15:51:54.076 HYPERVISOR: exec_cmd: vm set_ios RadioAntenna /home/andre/GNS3/images/IOS/c7200-adventerprisek9-mz.151-4.M2.bin 
+May 01 15:51:54.076 HYPERVISOR: exec_cmd: vm rename RadioAntenna MicrowaveAntenna 
+May 01 15:51:54.154 HYPERVISOR: exec_cmd: vm set_ios MicrowaveAntenna /home/andre/GNS3/images/IOS/c7200-adventerprisek9-mz.151-4.M2.bin 
+May 01 15:52:01.193 HYPERVISOR: exec_cmd: vm set_ios MicrowaveAntenna /home/andre/GNS3/images/IOS/c7200-adventerprisek9-mz.151-4.M2.bin 
+May 01 15:52:01.193 HYPERVISOR: exec_cmd: vm rename MicrowaveAntenna FeixoArtesiano 
+May 01 15:52:01.267 HYPERVISOR: exec_cmd: vm set_ios FeixoArtesiano /home/andre/GNS3/images/IOS/c7200-adventerprisek9-mz.151-4.M2.bin 
+May 01 16:07:15.845 HYPERVISOR: exec_cmd: vm set_ios FeixoArtesiano /home/andre/GNS3/images/IOS/c7200-adventerprisek9-mz.151-4.M2.bin 
+May 01 16:07:15.845 HYPERVISOR: exec_cmd: vm rename FeixoArtesiano Microwave 
+May 01 16:07:15.920 HYPERVISOR: exec_cmd: vm set_ios Microwave /home/andre/GNS3/images/IOS/c7200-adventerprisek9-mz.151-4.M2.bin 
+May 01 16:09:08.366 HYPERVISOR: exec_cmd: vm set_ios Microwave /home/andre/GNS3/images/IOS/c7200-adventerprisek9-mz.151-4.M2.bin 

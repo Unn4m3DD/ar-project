@@ -7,3 +7,11 @@ May 01 15:20:19.345 HYPERVISOR: exec_cmd: ethsw create Switch21
 May 01 15:20:25.559 HYPERVISOR: exec_cmd: nio create_udp udp-7e626730-89c8-496e-9eae-092551b9afd2 10237 127.0.0.1 10236 
 May 01 15:20:25.560 HYPERVISOR: exec_cmd: ethsw add_nio Switch21 udp-7e626730-89c8-496e-9eae-092551b9afd2 
 May 01 15:20:25.575 HYPERVISOR: exec_cmd: ethsw set_access_port Switch21 udp-7e626730-89c8-496e-9eae-092551b9afd2 1 
+May 01 15:26:57.041 HYPERVISOR: exec_cmd: ethsw set_access_port Switch21 udp-7e626730-89c8-496e-9eae-092551b9afd2 1 
+May 01 15:27:14.502 HYPERVISOR: exec_cmd: ethsw set_access_port Switch21 udp-7e626730-89c8-496e-9eae-092551b9afd2 1 
+May 01 15:27:16.957 HYPERVISOR: exec_cmd: ethsw set_access_port Switch21 udp-7e626730-89c8-496e-9eae-092551b9afd2 1 
+May 01 15:27:18.810 HYPERVISOR: exec_cmd: ethsw set_access_port Switch21 udp-7e626730-89c8-496e-9eae-092551b9afd2 1 
+May 01 15:32:05.380 HYPERVISOR: exec_cmd: ethsw set_access_port Switch21 udp-7e626730-89c8-496e-9eae-092551b9afd2 1 
+May 01 15:32:07.447 HYPERVISOR: exec_cmd: ethsw set_access_port Switch21 udp-7e626730-89c8-496e-9eae-092551b9afd2 1 
+May 01 15:32:09.506 HYPERVISOR: exec_cmd: ethsw set_access_port Switch21 udp-7e626730-89c8-496e-9eae-092551b9afd2 1 
+May 01 16:09:11.897 HYPERVISOR: exec_cmd: ethsw set_access_port Switch21 udp-7e626730-89c8-496e-9eae-092551b9afd2 1 

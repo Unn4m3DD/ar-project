@@ -16,3 +16,31 @@ May 01 15:20:24.960 HYPERVISOR: exec_cmd: ethsw set_access_port Switch15 udp-e9c
 May 01 15:20:25.013 HYPERVISOR: exec_cmd: nio create_udp udp-398fcec8-e790-4081-abc2-542668269fe8 10210 127.0.0.1 10211 
 May 01 15:20:25.013 HYPERVISOR: exec_cmd: ethsw add_nio Switch15 udp-398fcec8-e790-4081-abc2-542668269fe8 
 May 01 15:20:25.020 HYPERVISOR: exec_cmd: ethsw set_access_port Switch15 udp-398fcec8-e790-4081-abc2-542668269fe8 1 
+May 01 15:26:56.651 HYPERVISOR: exec_cmd: ethsw set_access_port Switch15 udp-ef0c883a-b86b-414b-b1f0-c1686f2ab010 1 
+May 01 15:26:56.655 HYPERVISOR: exec_cmd: ethsw set_access_port Switch15 udp-ad01a20c-2af0-4a61-b0e4-808b9fe8bb6e 1 
+May 01 15:26:56.658 HYPERVISOR: exec_cmd: ethsw set_access_port Switch15 udp-e9c7b2d9-a844-4ac7-a993-ff18aa983610 1 
+May 01 15:26:56.662 HYPERVISOR: exec_cmd: ethsw set_access_port Switch15 udp-398fcec8-e790-4081-abc2-542668269fe8 1 
+May 01 15:27:14.162 HYPERVISOR: exec_cmd: ethsw set_access_port Switch15 udp-ef0c883a-b86b-414b-b1f0-c1686f2ab010 1 
+May 01 15:27:14.166 HYPERVISOR: exec_cmd: ethsw set_access_port Switch15 udp-ad01a20c-2af0-4a61-b0e4-808b9fe8bb6e 1 
+May 01 15:27:14.168 HYPERVISOR: exec_cmd: ethsw set_access_port Switch15 udp-e9c7b2d9-a844-4ac7-a993-ff18aa983610 1 
+May 01 15:27:14.173 HYPERVISOR: exec_cmd: ethsw set_access_port Switch15 udp-398fcec8-e790-4081-abc2-542668269fe8 1 
+May 01 15:27:16.646 HYPERVISOR: exec_cmd: ethsw set_access_port Switch15 udp-ef0c883a-b86b-414b-b1f0-c1686f2ab010 1 
+May 01 15:27:16.648 HYPERVISOR: exec_cmd: ethsw set_access_port Switch15 udp-ad01a20c-2af0-4a61-b0e4-808b9fe8bb6e 1 
+May 01 15:27:16.748 HYPERVISOR: exec_cmd: ethsw set_access_port Switch15 udp-e9c7b2d9-a844-4ac7-a993-ff18aa983610 1 
+May 01 15:27:16.848 HYPERVISOR: exec_cmd: ethsw set_access_port Switch15 udp-398fcec8-e790-4081-abc2-542668269fe8 1 
+May 01 15:27:19.433 HYPERVISOR: exec_cmd: ethsw set_access_port Switch15 udp-ef0c883a-b86b-414b-b1f0-c1686f2ab010 1 
+May 01 15:27:19.482 HYPERVISOR: exec_cmd: ethsw set_access_port Switch15 udp-ad01a20c-2af0-4a61-b0e4-808b9fe8bb6e 1 
+May 01 15:27:19.485 HYPERVISOR: exec_cmd: ethsw set_access_port Switch15 udp-e9c7b2d9-a844-4ac7-a993-ff18aa983610 1 
+May 01 15:27:19.534 HYPERVISOR: exec_cmd: ethsw set_access_port Switch15 udp-398fcec8-e790-4081-abc2-542668269fe8 1 
+May 01 15:32:04.971 HYPERVISOR: exec_cmd: ethsw set_access_port Switch15 udp-ef0c883a-b86b-414b-b1f0-c1686f2ab010 1 
+May 01 15:32:04.973 HYPERVISOR: exec_cmd: ethsw set_access_port Switch15 udp-ad01a20c-2af0-4a61-b0e4-808b9fe8bb6e 1 
+May 01 15:32:04.979 HYPERVISOR: exec_cmd: ethsw set_access_port Switch15 udp-e9c7b2d9-a844-4ac7-a993-ff18aa983610 1 
+May 01 15:32:04.984 HYPERVISOR: exec_cmd: ethsw set_access_port Switch15 udp-398fcec8-e790-4081-abc2-542668269fe8 1 
+May 01 15:32:07.445 HYPERVISOR: exec_cmd: ethsw set_access_port Switch15 udp-ef0c883a-b86b-414b-b1f0-c1686f2ab010 1 
+May 01 15:32:07.449 HYPERVISOR: exec_cmd: ethsw set_access_port Switch15 udp-ad01a20c-2af0-4a61-b0e4-808b9fe8bb6e 1 
+May 01 15:32:07.450 HYPERVISOR: exec_cmd: ethsw set_access_port Switch15 udp-e9c7b2d9-a844-4ac7-a993-ff18aa983610 1 
+May 01 15:32:07.502 HYPERVISOR: exec_cmd: ethsw set_access_port Switch15 udp-398fcec8-e790-4081-abc2-542668269fe8 1 
+May 01 15:32:10.080 HYPERVISOR: exec_cmd: ethsw set_access_port Switch15 udp-ef0c883a-b86b-414b-b1f0-c1686f2ab010 1 
+May 01 15:32:10.177 HYPERVISOR: exec_cmd: ethsw set_access_port Switch15 udp-ad01a20c-2af0-4a61-b0e4-808b9fe8bb6e 1 
+May 01 15:32:10.179 HYPERVISOR: exec_cmd: ethsw set_access_port Switch15 udp-e9c7b2d9-a844-4ac7-a993-ff18aa983610 1 
+May 01 15:32:10.181 HYPERVISOR: exec_cmd: ethsw set_access_port Switch15 udp-398fcec8-e790-4081-abc2-542668269fe8 1 

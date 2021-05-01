@@ -29,3 +29,21 @@ May 01 15:20:22.462 HYPERVISOR: exec_cmd: vm get_status F4R1
 May 01 15:20:25.439 HYPERVISOR: exec_cmd: nio create_udp udp-1f9ec672-5a39-4984-80e2-9d60eac34c85 10230 127.0.0.1 10231 
 May 01 15:20:25.440 HYPERVISOR: exec_cmd: vm slot_add_nio_binding F4R1 1 1 udp-1f9ec672-5a39-4984-80e2-9d60eac34c85 
 May 01 15:20:25.440 HYPERVISOR: exec_cmd: vm get_status F4R1 
+May 01 15:20:25.783 HYPERVISOR: exec_cmd: nio create_udp udp-b8ad4d95-c95a-46f9-9d07-a0a7d607132b 10244 127.0.0.1 10245 
+May 01 15:20:25.784 HYPERVISOR: exec_cmd: vm slot_add_nio_binding F4R1 1 2 udp-b8ad4d95-c95a-46f9-9d07-a0a7d607132b 
+May 01 15:20:25.785 HYPERVISOR: exec_cmd: vm get_status F4R1 
+May 01 15:26:56.328 HYPERVISOR: exec_cmd: vm set_ios F4R1 /home/andre/GNS3/images/IOS/c3725-advipservicesk9-mz.124-21.bin 
+May 01 15:27:13.820 HYPERVISOR: exec_cmd: vm set_ios F4R1 /home/andre/GNS3/images/IOS/c3725-advipservicesk9-mz.124-21.bin 
+May 01 15:32:04.629 HYPERVISOR: exec_cmd: vm set_ios F4R1 /home/andre/GNS3/images/IOS/c3725-advipservicesk9-mz.124-21.bin 
+May 01 15:46:48.111 HYPERVISOR: exec_cmd: vm get_status F4R1 
+May 01 15:46:48.111 HYPERVISOR: exec_cmd: vm slot_remove_nio_binding F4R1 0 0 
+May 01 15:46:48.112 HYPERVISOR: exec_cmd: nio delete udp-4ff63ae6-f3f2-4047-9bab-21825d62ea5d 
+May 01 15:46:50.717 HYPERVISOR: exec_cmd: vm get_status F4R1 
+May 01 15:46:50.717 HYPERVISOR: exec_cmd: vm slot_remove_nio_binding F4R1 0 1 
+May 01 15:46:50.717 HYPERVISOR: exec_cmd: nio delete udp-a801404a-9487-4949-b672-6003d5c0205f 
+May 01 15:48:25.019 HYPERVISOR: exec_cmd: nio create_udp udp-4bd2405b-55eb-4bc4-836a-2d28fa9c1c85 10090 127.0.0.1 10091 
+May 01 15:48:25.020 HYPERVISOR: exec_cmd: vm slot_add_nio_binding F4R1 0 0 udp-4bd2405b-55eb-4bc4-836a-2d28fa9c1c85 
+May 01 15:48:25.020 HYPERVISOR: exec_cmd: vm get_status F4R1 
+May 01 15:48:40.609 HYPERVISOR: exec_cmd: nio create_udp udp-cce940b5-c988-4f71-86d9-f544daa21d7f 10264 127.0.0.1 10265 
+May 01 15:48:40.610 HYPERVISOR: exec_cmd: vm slot_add_nio_binding F4R1 0 1 udp-cce940b5-c988-4f71-86d9-f544daa21d7f 
+May 01 15:48:40.610 HYPERVISOR: exec_cmd: vm get_status F4R1 

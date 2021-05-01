@@ -35,3 +35,24 @@ May 01 15:20:22.571 HYPERVISOR: exec_cmd: vm get_status F1R1
 May 01 15:20:22.629 HYPERVISOR: exec_cmd: nio create_udp udp-fd237940-644f-4135-8d31-5fe8e1623277 10130 127.0.0.1 10131 
 May 01 15:20:22.630 HYPERVISOR: exec_cmd: vm slot_add_nio_binding F1R1 1 3 udp-fd237940-644f-4135-8d31-5fe8e1623277 
 May 01 15:20:22.630 HYPERVISOR: exec_cmd: vm get_status F1R1 
+May 01 15:26:56.984 HYPERVISOR: exec_cmd: vm set_ios F1R1 /home/andre/GNS3/images/IOS/c3725-advipservicesk9-mz.124-21.bin 
+May 01 15:27:14.498 HYPERVISOR: exec_cmd: vm set_ios F1R1 /home/andre/GNS3/images/IOS/c3725-advipservicesk9-mz.124-21.bin 
+May 01 15:27:17.344 HYPERVISOR: exec_cmd: vm set_ios F1R1 /home/andre/GNS3/images/IOS/c3725-advipservicesk9-mz.124-21.bin 
+May 01 15:27:18.486 HYPERVISOR: exec_cmd: vm set_ios F1R1 /home/andre/GNS3/images/IOS/c3725-advipservicesk9-mz.124-21.bin 
+May 01 15:32:05.320 HYPERVISOR: exec_cmd: vm set_ios F1R1 /home/andre/GNS3/images/IOS/c3725-advipservicesk9-mz.124-21.bin 
+May 01 15:32:07.878 HYPERVISOR: exec_cmd: vm set_ios F1R1 /home/andre/GNS3/images/IOS/c3725-advipservicesk9-mz.124-21.bin 
+May 01 15:32:09.173 HYPERVISOR: exec_cmd: vm set_ios F1R1 /home/andre/GNS3/images/IOS/c3725-advipservicesk9-mz.124-21.bin 
+May 01 15:35:45.555 HYPERVISOR: exec_cmd: vm set_ios F1R1 /home/andre/GNS3/images/IOS/c3725-advipservicesk9-mz.124-21.bin 
+May 01 15:35:50.580 HYPERVISOR: exec_cmd: vm set_ios F1R1 /home/andre/GNS3/images/IOS/c3725-advipservicesk9-mz.124-21.bin 
+May 01 15:47:04.546 HYPERVISOR: exec_cmd: vm get_status F1R1 
+May 01 15:47:04.546 HYPERVISOR: exec_cmd: vm slot_remove_nio_binding F1R1 0 1 
+May 01 15:47:04.547 HYPERVISOR: exec_cmd: nio delete udp-fe39454f-4388-4f20-8d17-b6f20d190471 
+May 01 15:47:06.615 HYPERVISOR: exec_cmd: vm get_status F1R1 
+May 01 15:47:06.615 HYPERVISOR: exec_cmd: vm slot_remove_nio_binding F1R1 0 0 
+May 01 15:47:06.616 HYPERVISOR: exec_cmd: nio delete udp-9ebfd65f-3e8b-4cb8-ab73-2d36d1eba35a 
+May 01 15:47:34.532 HYPERVISOR: exec_cmd: nio create_udp udp-8a251d71-ccac-467e-bc30-833c2a9fc0de 10018 127.0.0.1 10019 
+May 01 15:47:34.532 HYPERVISOR: exec_cmd: vm slot_add_nio_binding F1R1 0 0 udp-8a251d71-ccac-467e-bc30-833c2a9fc0de 
+May 01 15:47:34.532 HYPERVISOR: exec_cmd: vm get_status F1R1 
+May 01 15:47:39.679 HYPERVISOR: exec_cmd: nio create_udp udp-7ba5f6bc-6962-47c4-a8f7-c0380801d18f 10024 127.0.0.1 10025 
+May 01 15:47:39.679 HYPERVISOR: exec_cmd: vm slot_add_nio_binding F1R1 0 1 udp-7ba5f6bc-6962-47c4-a8f7-c0380801d18f 
+May 01 15:47:39.680 HYPERVISOR: exec_cmd: vm get_status F1R1 
