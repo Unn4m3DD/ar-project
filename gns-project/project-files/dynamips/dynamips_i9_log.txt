@@ -178,3 +178,8 @@ May 01 15:49:00.776 HYPERVISOR: exec_cmd: vm get_status C1
 May 01 15:49:10.240 HYPERVISOR: exec_cmd: nio create_udp udp-4d8edb3c-5f5e-4787-b7c4-c9935953add1 10298 127.0.0.1 10299 
 May 01 15:49:10.241 HYPERVISOR: exec_cmd: vm slot_add_nio_binding C1 5 1 udp-4d8edb3c-5f5e-4787-b7c4-c9935953add1 
 May 01 15:49:10.241 HYPERVISOR: exec_cmd: vm get_status C1 
+May 02 15:30:40.752 HYPERVISOR: exec_cmd: vm set_ios C1 /home/andre/GNS3/images/IOS/c7200-adventerprisek9-mz.151-4.M2.bin 
+May 02 16:09:39.892 HYPERVISOR: exec_cmd: vm set_ios C1 /home/andre/GNS3/images/IOS/c7200-adventerprisek9-mz.151-4.M2.bin 
+May 02 16:09:44.621 HYPERVISOR: exec_cmd: vm set_ios C1 /home/andre/GNS3/images/IOS/c7200-adventerprisek9-mz.151-4.M2.bin 
+May 02 16:09:47.666 HYPERVISOR: exec_cmd: vm set_ios C1 /home/andre/GNS3/images/IOS/c7200-adventerprisek9-mz.151-4.M2.bin 
+May 02 16:31:19.597 HYPERVISOR: exec_cmd: vm set_ios C1 /home/andre/GNS3/images/IOS/c7200-adventerprisek9-mz.151-4.M2.bin 

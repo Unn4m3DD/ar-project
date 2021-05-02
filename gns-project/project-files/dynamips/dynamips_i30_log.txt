@@ -34,3 +34,47 @@ May 01 15:32:04.292 HYPERVISOR: exec_cmd: ethsw set_access_port Switch20 udp-d65
 May 01 15:32:04.298 HYPERVISOR: exec_cmd: ethsw set_access_port Switch20 udp-556432d8-629b-43c0-906d-d5d6cbad0d46 1 
 May 01 15:32:04.451 HYPERVISOR: exec_cmd: ethsw set_access_port Switch20 udp-6c578edd-dd6b-4d95-8d4e-d3d7b3661cdf 1 
 May 01 15:32:04.554 HYPERVISOR: exec_cmd: ethsw set_access_port Switch20 udp-4feefcbf-0325-45c4-98f2-afeda1840d20 1 
+May 02 15:30:41.610 HYPERVISOR: exec_cmd: ethsw set_access_port Switch20 udp-c6a2bf3a-52a2-4a60-8e58-ce00b0d5bcbc 1 
+May 02 15:30:41.674 HYPERVISOR: exec_cmd: ethsw set_access_port Switch20 udp-d65a043b-eaeb-4dcf-aef4-d354c2da0ac8 1 
+May 02 15:30:41.677 HYPERVISOR: exec_cmd: ethsw set_access_port Switch20 udp-556432d8-629b-43c0-906d-d5d6cbad0d46 1 
+May 02 15:30:41.679 HYPERVISOR: exec_cmd: ethsw set_access_port Switch20 udp-6c578edd-dd6b-4d95-8d4e-d3d7b3661cdf 1 
+May 02 15:30:41.683 HYPERVISOR: exec_cmd: ethsw set_access_port Switch20 udp-4feefcbf-0325-45c4-98f2-afeda1840d20 1 
+May 02 16:09:40.767 HYPERVISOR: exec_cmd: ethsw set_access_port Switch20 udp-c6a2bf3a-52a2-4a60-8e58-ce00b0d5bcbc 1 
+May 02 16:09:40.827 HYPERVISOR: exec_cmd: ethsw set_access_port Switch20 udp-d65a043b-eaeb-4dcf-aef4-d354c2da0ac8 1 
+May 02 16:09:40.829 HYPERVISOR: exec_cmd: ethsw set_access_port Switch20 udp-556432d8-629b-43c0-906d-d5d6cbad0d46 1 
+May 02 16:09:40.830 HYPERVISOR: exec_cmd: ethsw set_access_port Switch20 udp-6c578edd-dd6b-4d95-8d4e-d3d7b3661cdf 1 
+May 02 16:09:40.835 HYPERVISOR: exec_cmd: ethsw set_access_port Switch20 udp-4feefcbf-0325-45c4-98f2-afeda1840d20 1 
+May 02 16:09:44.540 HYPERVISOR: exec_cmd: ethsw set_access_port Switch20 udp-c6a2bf3a-52a2-4a60-8e58-ce00b0d5bcbc 1 
+May 02 16:09:44.543 HYPERVISOR: exec_cmd: ethsw set_access_port Switch20 udp-d65a043b-eaeb-4dcf-aef4-d354c2da0ac8 1 
+May 02 16:09:44.623 HYPERVISOR: exec_cmd: ethsw set_access_port Switch20 udp-556432d8-629b-43c0-906d-d5d6cbad0d46 1 
+May 02 16:09:44.628 HYPERVISOR: exec_cmd: ethsw set_access_port Switch20 udp-6c578edd-dd6b-4d95-8d4e-d3d7b3661cdf 1 
+May 02 16:09:44.629 HYPERVISOR: exec_cmd: ethsw set_access_port Switch20 udp-4feefcbf-0325-45c4-98f2-afeda1840d20 1 
+May 02 16:09:47.217 HYPERVISOR: exec_cmd: ethsw set_access_port Switch20 udp-c6a2bf3a-52a2-4a60-8e58-ce00b0d5bcbc 1 
+May 02 16:09:47.222 HYPERVISOR: exec_cmd: ethsw set_access_port Switch20 udp-d65a043b-eaeb-4dcf-aef4-d354c2da0ac8 1 
+May 02 16:09:47.402 HYPERVISOR: exec_cmd: ethsw set_access_port Switch20 udp-556432d8-629b-43c0-906d-d5d6cbad0d46 1 
+May 02 16:09:47.405 HYPERVISOR: exec_cmd: ethsw set_access_port Switch20 udp-6c578edd-dd6b-4d95-8d4e-d3d7b3661cdf 1 
+May 02 16:09:47.406 HYPERVISOR: exec_cmd: ethsw set_access_port Switch20 udp-4feefcbf-0325-45c4-98f2-afeda1840d20 1 
+May 02 16:19:44.340 HYPERVISOR: exec_cmd: ethsw set_access_port Switch20 udp-c6a2bf3a-52a2-4a60-8e58-ce00b0d5bcbc 1 
+May 02 16:19:44.340 HYPERVISOR: exec_cmd: ethsw set_access_port Switch20 udp-d65a043b-eaeb-4dcf-aef4-d354c2da0ac8 1 
+May 02 16:19:44.340 HYPERVISOR: exec_cmd: ethsw set_access_port Switch20 udp-556432d8-629b-43c0-906d-d5d6cbad0d46 1 
+May 02 16:19:44.340 HYPERVISOR: exec_cmd: ethsw set_access_port Switch20 udp-6c578edd-dd6b-4d95-8d4e-d3d7b3661cdf 1 
+May 02 16:19:44.340 HYPERVISOR: exec_cmd: ethsw set_access_port Switch20 udp-4feefcbf-0325-45c4-98f2-afeda1840d20 1 
+May 02 16:19:57.196 HYPERVISOR: exec_cmd: ethsw set_access_port Switch20 udp-c6a2bf3a-52a2-4a60-8e58-ce00b0d5bcbc 1 
+May 02 16:19:57.196 HYPERVISOR: exec_cmd: ethsw set_access_port Switch20 udp-d65a043b-eaeb-4dcf-aef4-d354c2da0ac8 1 
+May 02 16:19:57.196 HYPERVISOR: exec_cmd: ethsw set_access_port Switch20 udp-556432d8-629b-43c0-906d-d5d6cbad0d46 1 
+May 02 16:19:57.196 HYPERVISOR: exec_cmd: ethsw set_access_port Switch20 udp-6c578edd-dd6b-4d95-8d4e-d3d7b3661cdf 1 
+May 02 16:19:57.197 HYPERVISOR: exec_cmd: ethsw set_access_port Switch20 udp-4feefcbf-0325-45c4-98f2-afeda1840d20 1 
+May 02 16:19:59.383 HYPERVISOR: exec_cmd: ethsw remove_nio Switch20 udp-c6a2bf3a-52a2-4a60-8e58-ce00b0d5bcbc 
+May 02 16:19:59.395 HYPERVISOR: exec_cmd: nio delete udp-c6a2bf3a-52a2-4a60-8e58-ce00b0d5bcbc 
+May 02 16:19:59.459 HYPERVISOR: exec_cmd: ethsw remove_nio Switch20 udp-d65a043b-eaeb-4dcf-aef4-d354c2da0ac8 
+May 02 16:19:59.476 HYPERVISOR: exec_cmd: nio delete udp-d65a043b-eaeb-4dcf-aef4-d354c2da0ac8 
+May 02 16:19:59.539 HYPERVISOR: exec_cmd: ethsw remove_nio Switch20 udp-556432d8-629b-43c0-906d-d5d6cbad0d46 
+May 02 16:19:59.556 HYPERVISOR: exec_cmd: nio delete udp-556432d8-629b-43c0-906d-d5d6cbad0d46 
+May 02 16:19:59.627 HYPERVISOR: exec_cmd: ethsw remove_nio Switch20 udp-6c578edd-dd6b-4d95-8d4e-d3d7b3661cdf 
+May 02 16:19:59.636 HYPERVISOR: exec_cmd: nio delete udp-6c578edd-dd6b-4d95-8d4e-d3d7b3661cdf 
+May 02 16:19:59.705 HYPERVISOR: exec_cmd: ethsw remove_nio Switch20 udp-4feefcbf-0325-45c4-98f2-afeda1840d20 
+May 02 16:19:59.716 HYPERVISOR: exec_cmd: nio delete udp-4feefcbf-0325-45c4-98f2-afeda1840d20 
+May 02 16:19:59.786 HYPERVISOR: exec_cmd: ethsw delete Switch20 
+May 02 16:19:59.786 HYPERVISOR: exec_cmd: hypervisor stop 
+May 02 16:19:59.803 HYPERVISOR: Stopped.
+May 02 16:19:59.803 GENERAL: reset done.

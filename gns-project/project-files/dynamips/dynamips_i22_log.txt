@@ -16,3 +16,11 @@ May 01 15:27:13.821 HYPERVISOR: exec_cmd: ethsw set_access_port Switch12 udp-e31
 May 01 15:27:13.828 HYPERVISOR: exec_cmd: ethsw set_access_port Switch12 udp-276c311d-b68b-4ce4-ab06-319b94190d59 1 
 May 01 15:32:04.630 HYPERVISOR: exec_cmd: ethsw set_access_port Switch12 udp-e313e2f2-f9bc-4591-a220-bfa3de986b45 1 
 May 01 15:32:04.640 HYPERVISOR: exec_cmd: ethsw set_access_port Switch12 udp-276c311d-b68b-4ce4-ab06-319b94190d59 1 
+May 02 15:30:40.945 HYPERVISOR: exec_cmd: ethsw set_access_port Switch12 udp-e313e2f2-f9bc-4591-a220-bfa3de986b45 1 
+May 02 15:30:41.007 HYPERVISOR: exec_cmd: ethsw set_access_port Switch12 udp-276c311d-b68b-4ce4-ab06-319b94190d59 1 
+May 02 16:09:40.093 HYPERVISOR: exec_cmd: ethsw set_access_port Switch12 udp-e313e2f2-f9bc-4591-a220-bfa3de986b45 1 
+May 02 16:09:40.160 HYPERVISOR: exec_cmd: ethsw set_access_port Switch12 udp-276c311d-b68b-4ce4-ab06-319b94190d59 1 
+May 02 16:09:45.620 HYPERVISOR: exec_cmd: ethsw set_access_port Switch12 udp-e313e2f2-f9bc-4591-a220-bfa3de986b45 1 
+May 02 16:09:45.681 HYPERVISOR: exec_cmd: ethsw set_access_port Switch12 udp-276c311d-b68b-4ce4-ab06-319b94190d59 1 
+May 02 16:09:47.214 HYPERVISOR: exec_cmd: ethsw set_access_port Switch12 udp-e313e2f2-f9bc-4591-a220-bfa3de986b45 1 
+May 02 16:09:47.216 HYPERVISOR: exec_cmd: ethsw set_access_port Switch12 udp-276c311d-b68b-4ce4-ab06-319b94190d59 1 

@@ -15,3 +15,19 @@ May 01 15:32:05.380 HYPERVISOR: exec_cmd: ethsw set_access_port Switch21 udp-7e6
 May 01 15:32:07.447 HYPERVISOR: exec_cmd: ethsw set_access_port Switch21 udp-7e626730-89c8-496e-9eae-092551b9afd2 1 
 May 01 15:32:09.506 HYPERVISOR: exec_cmd: ethsw set_access_port Switch21 udp-7e626730-89c8-496e-9eae-092551b9afd2 1 
 May 01 16:09:11.897 HYPERVISOR: exec_cmd: ethsw set_access_port Switch21 udp-7e626730-89c8-496e-9eae-092551b9afd2 1 
+May 02 15:30:42.147 HYPERVISOR: exec_cmd: ethsw set_access_port Switch21 udp-7e626730-89c8-496e-9eae-092551b9afd2 1 
+May 02 16:09:41.234 HYPERVISOR: exec_cmd: ethsw set_access_port Switch21 udp-7e626730-89c8-496e-9eae-092551b9afd2 1 
+May 02 16:09:45.932 HYPERVISOR: exec_cmd: ethsw set_access_port Switch21 udp-7e626730-89c8-496e-9eae-092551b9afd2 1 
+May 02 16:09:48.481 HYPERVISOR: exec_cmd: ethsw set_access_port Switch21 udp-7e626730-89c8-496e-9eae-092551b9afd2 1 
+May 02 16:19:59.558 HYPERVISOR: exec_cmd: ethsw remove_nio Switch21 udp-7e626730-89c8-496e-9eae-092551b9afd2 
+May 02 16:19:59.566 HYPERVISOR: exec_cmd: nio delete udp-7e626730-89c8-496e-9eae-092551b9afd2 
+May 02 16:20:11.630 HYPERVISOR: exec_cmd: nio create_udp udp-5c811191-800b-479a-94ae-688a3a0c87e1 10228 127.0.0.1 10229 
+May 02 16:20:11.630 HYPERVISOR: exec_cmd: ethsw add_nio Switch21 udp-5c811191-800b-479a-94ae-688a3a0c87e1 
+May 02 16:20:11.643 HYPERVISOR: exec_cmd: ethsw set_access_port Switch21 udp-5c811191-800b-479a-94ae-688a3a0c87e1 1 
+May 02 16:20:18.896 HYPERVISOR: exec_cmd: nio create_udp udp-ca1a696a-4bfe-421b-b831-ab1bf681fb20 10236 127.0.0.1 10237 
+May 02 16:20:18.896 HYPERVISOR: exec_cmd: ethsw add_nio Switch21 udp-ca1a696a-4bfe-421b-b831-ab1bf681fb20 
+May 02 16:20:18.907 HYPERVISOR: exec_cmd: ethsw set_access_port Switch21 udp-ca1a696a-4bfe-421b-b831-ab1bf681fb20 1 
+May 02 16:23:13.842 HYPERVISOR: exec_cmd: ethsw set_access_port Switch21 udp-5c811191-800b-479a-94ae-688a3a0c87e1 1 
+May 02 16:23:13.842 HYPERVISOR: exec_cmd: ethsw set_access_port Switch21 udp-ca1a696a-4bfe-421b-b831-ab1bf681fb20 1 
+May 02 16:24:21.614 HYPERVISOR: exec_cmd: ethsw set_access_port Switch21 udp-5c811191-800b-479a-94ae-688a3a0c87e1 1 
+May 02 16:24:21.614 HYPERVISOR: exec_cmd: ethsw set_access_port Switch21 udp-ca1a696a-4bfe-421b-b831-ab1bf681fb20 1 

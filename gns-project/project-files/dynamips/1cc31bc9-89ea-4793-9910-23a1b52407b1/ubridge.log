@@ -28,3 +28,11 @@ UDP tunnel connecting from local port 10271 to IPv4 address 127.0.0.1 on port 10
 UDP tunnel connecting from local port 10267 to IPv4 address 127.0.0.1 on port 10266
 Source NIO listener thread for DYNAMIPS-10270-10271 has started
 Destination NIO listener thread for DYNAMIPS-10270-10271 has started
+UDP tunnel connecting from local port 10231 to IPv4 address 127.0.0.1 on port 10230
+UDP tunnel connecting from local port 10229 to IPv4 address 127.0.0.1 on port 10228
+Source NIO listener thread for DYNAMIPS-10230-10231 has started
+Destination NIO listener thread for DYNAMIPS-10230-10231 has started
+UDP tunnel connecting from local port 10335 to IPv4 address 127.0.0.1 on port 10334
+UDP tunnel connecting from local port 10241 to IPv4 address 127.0.0.1 on port 10240
+Source NIO listener thread for DYNAMIPS-10334-10335 has started
+Destination NIO listener thread for DYNAMIPS-10334-10335 has started

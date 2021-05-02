@@ -40,3 +40,7 @@ May 01 15:50:50.911 HYPERVISOR: exec_cmd: vm get_status ISP1
 May 01 15:50:57.188 HYPERVISOR: exec_cmd: nio create_udp udp-47694b0d-7079-4060-882c-4d5bbec96697 10324 127.0.0.1 10325 
 May 01 15:50:57.189 HYPERVISOR: exec_cmd: vm slot_add_nio_binding ISP1 1 0 udp-47694b0d-7079-4060-882c-4d5bbec96697 
 May 01 15:50:57.189 HYPERVISOR: exec_cmd: vm get_status ISP1 
+May 02 15:30:40.592 HYPERVISOR: exec_cmd: vm set_ios ISP1 /home/andre/GNS3/images/IOS/c7200-adventerprisek9-mz.151-4.M2.bin 
+May 02 16:09:39.749 HYPERVISOR: exec_cmd: vm set_ios ISP1 /home/andre/GNS3/images/IOS/c7200-adventerprisek9-mz.151-4.M2.bin 
+May 02 16:09:43.800 HYPERVISOR: exec_cmd: vm set_ios ISP1 /home/andre/GNS3/images/IOS/c7200-adventerprisek9-mz.151-4.M2.bin 
+May 02 16:09:44.818 HYPERVISOR: exec_cmd: vm set_ios ISP1 /home/andre/GNS3/images/IOS/c7200-adventerprisek9-mz.151-4.M2.bin 

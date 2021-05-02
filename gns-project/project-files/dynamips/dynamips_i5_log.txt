@@ -53,3 +53,5 @@ May 01 15:48:06.958 HYPERVISOR: exec_cmd: vm get_status F3R1
 May 01 15:48:18.419 HYPERVISOR: exec_cmd: nio create_udp udp-5b9c2d5f-b56d-43f1-a1fb-ea021222c2be 10078 127.0.0.1 10079 
 May 01 15:48:18.419 HYPERVISOR: exec_cmd: vm slot_add_nio_binding F3R1 0 1 udp-5b9c2d5f-b56d-43f1-a1fb-ea021222c2be 
 May 01 15:48:18.419 HYPERVISOR: exec_cmd: vm get_status F3R1 
+May 02 15:30:40.075 HYPERVISOR: exec_cmd: vm set_ios F3R1 /home/andre/GNS3/images/IOS/c3725-advipservicesk9-mz.124-21.bin 
+May 02 16:09:39.233 HYPERVISOR: exec_cmd: vm set_ios F3R1 /home/andre/GNS3/images/IOS/c3725-advipservicesk9-mz.124-21.bin 

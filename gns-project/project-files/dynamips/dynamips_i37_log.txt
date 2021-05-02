@@ -34,3 +34,13 @@ May 01 15:47:29.619 HYPERVISOR: exec_cmd: ethsw set_access_port Switch23 udp-ba6
 May 01 16:13:12.805 HYPERVISOR: exec_cmd: nio create_udp udp-1af67ff1-a935-4d24-8a62-850ebf68e58b 10333 127.0.0.1 10332 
 May 01 16:13:12.805 HYPERVISOR: exec_cmd: ethsw add_nio Switch23 udp-1af67ff1-a935-4d24-8a62-850ebf68e58b 
 May 01 16:13:12.812 HYPERVISOR: exec_cmd: ethsw set_access_port Switch23 udp-1af67ff1-a935-4d24-8a62-850ebf68e58b 1 
+May 02 15:30:39.629 HYPERVISOR: exec_cmd: ethsw set_access_port Switch23 udp-28b6d7ac-d83e-4116-a092-8ad00d8d3ed8 1 
+May 02 15:30:39.634 HYPERVISOR: exec_cmd: ethsw set_access_port Switch23 udp-a09427c1-65a9-4a83-a756-bd0e9817d7bf 1 
+May 02 15:30:39.639 HYPERVISOR: exec_cmd: ethsw set_access_port Switch23 udp-1af67ff1-a935-4d24-8a62-850ebf68e58b 1 
+May 02 15:30:39.875 HYPERVISOR: exec_cmd: ethsw set_access_port Switch23 udp-ba6366d6-9ae5-40bd-a434-08b1a9233dfb 1 
+May 02 15:30:39.876 HYPERVISOR: exec_cmd: ethsw set_access_port Switch23 udp-c688ca3f-beb5-43c7-ad6f-586b58ae9c02 1 
+May 02 16:09:38.784 HYPERVISOR: exec_cmd: ethsw set_access_port Switch23 udp-28b6d7ac-d83e-4116-a092-8ad00d8d3ed8 1 
+May 02 16:09:38.788 HYPERVISOR: exec_cmd: ethsw set_access_port Switch23 udp-a09427c1-65a9-4a83-a756-bd0e9817d7bf 1 
+May 02 16:09:38.793 HYPERVISOR: exec_cmd: ethsw set_access_port Switch23 udp-1af67ff1-a935-4d24-8a62-850ebf68e58b 1 
+May 02 16:09:38.913 HYPERVISOR: exec_cmd: ethsw set_access_port Switch23 udp-ba6366d6-9ae5-40bd-a434-08b1a9233dfb 1 
+May 02 16:09:39.033 HYPERVISOR: exec_cmd: ethsw set_access_port Switch23 udp-c688ca3f-beb5-43c7-ad6f-586b58ae9c02 1 
