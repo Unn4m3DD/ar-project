@@ -16,7 +16,7 @@ cidr = {
 "13" :	"255.248.0.0",
 "14" :	"255.252.0.0",
 "15" :	"255.254.0.0",
-"16" :	"255.255.0.0",
+"16" :	"255.255.240.0",
 "17" :	"255.255.128.0",
 "18" :	"255.255.192.0",
 "19" :	"255.255.224.0",
@@ -42,20 +42,34 @@ with open('src.csv', newline='') as csvfile:
   ip_buffer = ""
   vlan_buffer = ""
   for row in reader:
-    if(row[0] == ""): continue
-    if(last_name != "" and last_name != row[0]):
+    if("" == row[0]):
       file = open(f"new_{last_name}.conf", "w")
       file.write("vlan database\n") 
       file.write(vlan_buffer) 
       file.write("exit\n") 
       file.write("conf t\n\n") 
+      file.write("""
+conf t
+ip routing
+int range f1/0 - 15
+switchport mode trunk
+switchport trunk encapsulation dot1q
+""")
       file.write(ip_buffer) 
       file.write("end\n") 
       file.close()
       ip_buffer = ""
       vlan_buffer = ""
+      continue
     vlan_buffer += f"{row[1]}\n"
     ip_buffer += (f"""int {row[1]}
   ip add {row[2].split("/")[0]} {cidr[row[2].split("/")[1]]}
   ipv add {row[3]}\n\n""")
     last_name = row[0]
+
+
+
+
+
+
+
