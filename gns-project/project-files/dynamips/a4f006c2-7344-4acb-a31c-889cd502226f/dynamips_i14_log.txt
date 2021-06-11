@@ -1,0 +1,82 @@
+May 04 14:19:57.997 HYPERVISOR: Release 0.2.21-amd64/Linux (tag 2019071212)
+May 04 14:19:57.997 HYPERVISOR: Started on IP = localhost, TCP port = 49493.
+May 04 14:19:58.006 HYPERVISOR: exec_cmd: hypervisor version 
+May 04 14:19:58.006 HYPERVISOR: exec_cmd: hypervisor working_dir /home/andre/repos/ar-project/gns-project/project-files/dynamips 
+May 04 14:19:58.006 GENERAL: working_dir=/home/andre/repos/ar-project/gns-project/project-files/dynamips
+May 04 14:19:58.006 HYPERVISOR: exec_cmd: ethsw create Switch4 
+May 04 14:20:00.834 HYPERVISOR: exec_cmd: nio create_udp udp-72115d13-5148-452b-88d3-cbed4dff1d7e 10049 127.0.0.1 10048 
+May 04 14:20:00.834 HYPERVISOR: exec_cmd: ethsw add_nio Switch4 udp-72115d13-5148-452b-88d3-cbed4dff1d7e 
+May 04 14:20:00.846 HYPERVISOR: exec_cmd: ethsw set_access_port Switch4 udp-72115d13-5148-452b-88d3-cbed4dff1d7e 1 
+May 04 14:20:01.075 HYPERVISOR: exec_cmd: nio create_udp udp-324929f5-afa3-4ed0-8069-70c2fad6c7aa 10055 127.0.0.1 10054 
+May 04 14:20:01.075 HYPERVISOR: exec_cmd: ethsw add_nio Switch4 udp-324929f5-afa3-4ed0-8069-70c2fad6c7aa 
+May 04 14:20:01.086 HYPERVISOR: exec_cmd: ethsw set_access_port Switch4 udp-324929f5-afa3-4ed0-8069-70c2fad6c7aa 1 
+May 04 14:20:01.156 HYPERVISOR: exec_cmd: nio create_udp udp-4ae637e0-0930-448d-8b11-a48ef00c0830 10057 127.0.0.1 10056 
+May 04 14:20:01.156 HYPERVISOR: exec_cmd: ethsw add_nio Switch4 udp-4ae637e0-0930-448d-8b11-a48ef00c0830 
+May 04 14:20:01.167 HYPERVISOR: exec_cmd: ethsw set_access_port Switch4 udp-4ae637e0-0930-448d-8b11-a48ef00c0830 1 
+May 04 14:20:01.235 HYPERVISOR: exec_cmd: nio create_udp udp-18c301f2-9e3f-4d9e-9a84-9948cd8929e7 10059 127.0.0.1 10058 
+May 04 14:20:01.235 HYPERVISOR: exec_cmd: ethsw add_nio Switch4 udp-18c301f2-9e3f-4d9e-9a84-9948cd8929e7 
+May 04 14:20:01.247 HYPERVISOR: exec_cmd: ethsw set_access_port Switch4 udp-18c301f2-9e3f-4d9e-9a84-9948cd8929e7 1 
+May 04 14:20:01.316 HYPERVISOR: exec_cmd: nio create_udp udp-2a85d42d-ba77-4775-bd23-c2310027b471 10061 127.0.0.1 10060 
+May 04 14:20:01.316 HYPERVISOR: exec_cmd: ethsw add_nio Switch4 udp-2a85d42d-ba77-4775-bd23-c2310027b471 
+May 04 14:20:01.327 HYPERVISOR: exec_cmd: ethsw set_access_port Switch4 udp-2a85d42d-ba77-4775-bd23-c2310027b471 1 
+May 04 14:20:01.396 HYPERVISOR: exec_cmd: nio create_udp udp-43bb3398-605e-4c07-baee-743ba981049b 10063 127.0.0.1 10062 
+May 04 14:20:01.396 HYPERVISOR: exec_cmd: ethsw add_nio Switch4 udp-43bb3398-605e-4c07-baee-743ba981049b 
+May 04 14:20:01.408 HYPERVISOR: exec_cmd: ethsw set_access_port Switch4 udp-43bb3398-605e-4c07-baee-743ba981049b 1 
+May 04 16:17:43.485 HYPERVISOR: exec_cmd: ethsw set_access_port Switch4 udp-72115d13-5148-452b-88d3-cbed4dff1d7e 1 
+May 04 16:17:43.605 HYPERVISOR: exec_cmd: ethsw set_access_port Switch4 udp-324929f5-afa3-4ed0-8069-70c2fad6c7aa 1 
+May 04 16:17:43.610 HYPERVISOR: exec_cmd: ethsw set_access_port Switch4 udp-18c301f2-9e3f-4d9e-9a84-9948cd8929e7 1 
+May 04 16:17:43.615 HYPERVISOR: exec_cmd: ethsw set_access_port Switch4 udp-4ae637e0-0930-448d-8b11-a48ef00c0830 1 
+May 04 16:17:43.738 HYPERVISOR: exec_cmd: ethsw set_access_port Switch4 udp-2a85d42d-ba77-4775-bd23-c2310027b471 1 
+May 04 16:17:43.799 HYPERVISOR: exec_cmd: ethsw set_access_port Switch4 udp-43bb3398-605e-4c07-baee-743ba981049b 1 
+May 04 16:17:48.887 HYPERVISOR: exec_cmd: ethsw set_access_port Switch4 udp-72115d13-5148-452b-88d3-cbed4dff1d7e 1 
+May 04 16:17:48.951 HYPERVISOR: exec_cmd: ethsw set_access_port Switch4 udp-324929f5-afa3-4ed0-8069-70c2fad6c7aa 1 
+May 04 16:17:48.955 HYPERVISOR: exec_cmd: ethsw set_access_port Switch4 udp-18c301f2-9e3f-4d9e-9a84-9948cd8929e7 1 
+May 04 16:17:48.957 HYPERVISOR: exec_cmd: ethsw set_access_port Switch4 udp-4ae637e0-0930-448d-8b11-a48ef00c0830 1 
+May 04 16:17:49.076 HYPERVISOR: exec_cmd: ethsw set_access_port Switch4 udp-2a85d42d-ba77-4775-bd23-c2310027b471 1 
+May 04 16:17:49.077 HYPERVISOR: exec_cmd: ethsw set_access_port Switch4 udp-43bb3398-605e-4c07-baee-743ba981049b 1 
+May 04 16:17:50.780 HYPERVISOR: exec_cmd: ethsw set_access_port Switch4 udp-72115d13-5148-452b-88d3-cbed4dff1d7e 1 
+May 04 16:17:50.844 HYPERVISOR: exec_cmd: ethsw set_access_port Switch4 udp-324929f5-afa3-4ed0-8069-70c2fad6c7aa 1 
+May 04 16:17:50.903 HYPERVISOR: exec_cmd: ethsw set_access_port Switch4 udp-18c301f2-9e3f-4d9e-9a84-9948cd8929e7 1 
+May 04 16:17:50.906 HYPERVISOR: exec_cmd: ethsw set_access_port Switch4 udp-4ae637e0-0930-448d-8b11-a48ef00c0830 1 
+May 04 16:17:50.968 HYPERVISOR: exec_cmd: ethsw set_access_port Switch4 udp-2a85d42d-ba77-4775-bd23-c2310027b471 1 
+May 04 16:17:50.971 HYPERVISOR: exec_cmd: ethsw set_access_port Switch4 udp-43bb3398-605e-4c07-baee-743ba981049b 1 
+May 04 16:19:58.236 HYPERVISOR: exec_cmd: ethsw set_access_port Switch4 udp-72115d13-5148-452b-88d3-cbed4dff1d7e 1 
+May 04 16:19:58.239 HYPERVISOR: exec_cmd: ethsw set_access_port Switch4 udp-324929f5-afa3-4ed0-8069-70c2fad6c7aa 1 
+May 04 16:19:58.240 HYPERVISOR: exec_cmd: ethsw set_access_port Switch4 udp-18c301f2-9e3f-4d9e-9a84-9948cd8929e7 1 
+May 04 16:19:58.362 HYPERVISOR: exec_cmd: ethsw set_access_port Switch4 udp-4ae637e0-0930-448d-8b11-a48ef00c0830 1 
+May 04 16:19:58.366 HYPERVISOR: exec_cmd: ethsw set_access_port Switch4 udp-2a85d42d-ba77-4775-bd23-c2310027b471 1 
+May 04 16:19:58.370 HYPERVISOR: exec_cmd: ethsw set_access_port Switch4 udp-43bb3398-605e-4c07-baee-743ba981049b 1 
+May 04 16:20:03.619 HYPERVISOR: exec_cmd: ethsw set_access_port Switch4 udp-72115d13-5148-452b-88d3-cbed4dff1d7e 1 
+May 04 16:20:03.622 HYPERVISOR: exec_cmd: ethsw set_access_port Switch4 udp-324929f5-afa3-4ed0-8069-70c2fad6c7aa 1 
+May 04 16:20:03.684 HYPERVISOR: exec_cmd: ethsw set_access_port Switch4 udp-18c301f2-9e3f-4d9e-9a84-9948cd8929e7 1 
+May 04 16:20:03.688 HYPERVISOR: exec_cmd: ethsw set_access_port Switch4 udp-4ae637e0-0930-448d-8b11-a48ef00c0830 1 
+May 04 16:20:03.689 HYPERVISOR: exec_cmd: ethsw set_access_port Switch4 udp-2a85d42d-ba77-4775-bd23-c2310027b471 1 
+May 04 16:20:03.807 HYPERVISOR: exec_cmd: ethsw set_access_port Switch4 udp-43bb3398-605e-4c07-baee-743ba981049b 1 
+May 04 16:20:05.493 HYPERVISOR: exec_cmd: ethsw set_access_port Switch4 udp-72115d13-5148-452b-88d3-cbed4dff1d7e 1 
+May 04 16:20:05.555 HYPERVISOR: exec_cmd: ethsw set_access_port Switch4 udp-324929f5-afa3-4ed0-8069-70c2fad6c7aa 1 
+May 04 16:20:05.686 HYPERVISOR: exec_cmd: ethsw set_access_port Switch4 udp-18c301f2-9e3f-4d9e-9a84-9948cd8929e7 1 
+May 04 16:20:05.689 HYPERVISOR: exec_cmd: ethsw set_access_port Switch4 udp-4ae637e0-0930-448d-8b11-a48ef00c0830 1 
+May 04 16:20:05.690 HYPERVISOR: exec_cmd: ethsw set_access_port Switch4 udp-2a85d42d-ba77-4775-bd23-c2310027b471 1 
+May 04 16:20:05.693 HYPERVISOR: exec_cmd: ethsw set_access_port Switch4 udp-43bb3398-605e-4c07-baee-743ba981049b 1 
+May 04 16:26:32.866 HYPERVISOR: exec_cmd: ethsw set_access_port Switch4 udp-72115d13-5148-452b-88d3-cbed4dff1d7e 1 
+May 04 16:26:32.870 HYPERVISOR: exec_cmd: ethsw set_access_port Switch4 udp-324929f5-afa3-4ed0-8069-70c2fad6c7aa 1 
+May 04 16:26:32.872 HYPERVISOR: exec_cmd: ethsw set_access_port Switch4 udp-18c301f2-9e3f-4d9e-9a84-9948cd8929e7 1 
+May 04 16:26:32.993 HYPERVISOR: exec_cmd: ethsw set_access_port Switch4 udp-4ae637e0-0930-448d-8b11-a48ef00c0830 1 
+May 04 16:26:32.996 HYPERVISOR: exec_cmd: ethsw set_access_port Switch4 udp-2a85d42d-ba77-4775-bd23-c2310027b471 1 
+May 04 16:26:33.056 HYPERVISOR: exec_cmd: ethsw set_access_port Switch4 udp-43bb3398-605e-4c07-baee-743ba981049b 1 
+May 04 16:26:37.219 HYPERVISOR: exec_cmd: ethsw set_access_port Switch4 udp-72115d13-5148-452b-88d3-cbed4dff1d7e 1 
+May 04 16:26:37.338 HYPERVISOR: exec_cmd: ethsw set_access_port Switch4 udp-324929f5-afa3-4ed0-8069-70c2fad6c7aa 1 
+May 04 16:26:37.341 HYPERVISOR: exec_cmd: ethsw set_access_port Switch4 udp-18c301f2-9e3f-4d9e-9a84-9948cd8929e7 1 
+May 04 16:26:37.403 HYPERVISOR: exec_cmd: ethsw set_access_port Switch4 udp-4ae637e0-0930-448d-8b11-a48ef00c0830 1 
+May 04 16:26:37.519 HYPERVISOR: exec_cmd: ethsw set_access_port Switch4 udp-2a85d42d-ba77-4775-bd23-c2310027b471 1 
+May 04 16:26:37.579 HYPERVISOR: exec_cmd: ethsw set_access_port Switch4 udp-43bb3398-605e-4c07-baee-743ba981049b 1 
+May 04 16:26:38.987 HYPERVISOR: exec_cmd: ethsw set_access_port Switch4 udp-72115d13-5148-452b-88d3-cbed4dff1d7e 1 
+May 04 16:26:39.048 HYPERVISOR: exec_cmd: ethsw set_access_port Switch4 udp-324929f5-afa3-4ed0-8069-70c2fad6c7aa 1 
+May 04 16:26:39.051 HYPERVISOR: exec_cmd: ethsw set_access_port Switch4 udp-18c301f2-9e3f-4d9e-9a84-9948cd8929e7 1 
+May 04 16:26:39.053 HYPERVISOR: exec_cmd: ethsw set_access_port Switch4 udp-4ae637e0-0930-448d-8b11-a48ef00c0830 1 
+May 04 16:26:39.057 HYPERVISOR: exec_cmd: ethsw set_access_port Switch4 udp-2a85d42d-ba77-4775-bd23-c2310027b471 1 
+May 04 16:26:39.059 HYPERVISOR: exec_cmd: ethsw set_access_port Switch4 udp-43bb3398-605e-4c07-baee-743ba981049b 1 
+May 04 16:54:17.157 HYPERVISOR: exec_cmd: ethsw delete Switch4 
+May 04 16:54:17.275 HYPERVISOR: exec_cmd: hypervisor stop 
+May 04 16:54:17.484 HYPERVISOR: Stopped.
+May 04 16:54:17.484 GENERAL: reset done.

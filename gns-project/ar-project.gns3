@@ -22,8 +22,8 @@
                 "locked": false,
                 "rotation": 0,
                 "svg": "<svg width=\"628\" height=\"405\"><rect width=\"628\" height=\"405\" fill=\"#ffffff\" fill-opacity=\"1.0\" stroke-width=\"2\" stroke=\"#000000\" /></svg>",
-                "x": -787,
-                "y": -841,
+                "x": -782,
+                "y": -613,
                 "z": 0
             },
             {
@@ -31,8 +31,8 @@
                 "locked": false,
                 "rotation": 0,
                 "svg": "<svg width=\"82\" height=\"37\"><text font-family=\"Sans Serif\" font-size=\"18.0\" fill=\"#000000\" fill-opacity=\"1.0\">Floor 1</text></svg>",
-                "x": -778,
-                "y": -834,
+                "x": -773,
+                "y": -606,
                 "z": 2
             },
             {
@@ -40,8 +40,8 @@
                 "locked": false,
                 "rotation": 0,
                 "svg": "<svg width=\"52\" height=\"24\"><text font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\" fill=\"#000000\" fill-opacity=\"1.0\">16 port</text></svg>",
-                "x": -776,
-                "y": -615,
+                "x": -771,
+                "y": -387,
                 "z": 2
             },
             {
@@ -49,8 +49,8 @@
                 "locked": false,
                 "rotation": 0,
                 "svg": "<svg width=\"217\" height=\"28\"><text font-family=\"Sans Serif\" font-size=\"6.0\" fill=\"#000000\" fill-opacity=\"1.0\">  This switch represents 11 switches of 48 ports for servers\n(250 servers * 2 ports each) / (48 - 2 prev layer switch) = 11</text></svg>",
-                "x": -782,
-                "y": -726,
+                "x": -777,
+                "y": -498,
                 "z": 2
             },
             {
@@ -58,8 +58,8 @@
                 "locked": false,
                 "rotation": 0,
                 "svg": "<svg width=\"234\" height=\"38\"><text font-family=\"Sans Serif\" font-size=\"6.0\" fill=\"#000000\" fill-opacity=\"1.0\">  This switch represents 3 switches of 32 ports for workstations\n(assuming some of the workstations use 2 ports for redundancy)\n         (20 workstations * 3 rooms * ~1.5 ports each) / 32 = 3</text></svg>",
-                "x": -601,
-                "y": -701,
+                "x": -596,
+                "y": -473,
                 "z": 2
             },
             {
@@ -67,8 +67,8 @@
                 "locked": false,
                 "rotation": 0,
                 "svg": "<svg width=\"52\" height=\"24\"><text font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\" fill=\"#000000\" fill-opacity=\"1.0\">48 port</text></svg>",
-                "x": -771,
-                "y": -683,
+                "x": -766,
+                "y": -455,
                 "z": 2
             },
             {
@@ -76,8 +76,8 @@
                 "locked": false,
                 "rotation": 0,
                 "svg": "<svg width=\"52\" height=\"24\"><text font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\" fill=\"#000000\" fill-opacity=\"1.0\">16 port</text></svg>",
-                "x": -577,
-                "y": -604,
+                "x": -572,
+                "y": -376,
                 "z": 2
             },
             {
@@ -85,8 +85,8 @@
                 "locked": false,
                 "rotation": 0,
                 "svg": "<svg width=\"52\" height=\"24\"><text font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\" fill=\"#000000\" fill-opacity=\"1.0\">32 port</text></svg>",
-                "x": -577,
-                "y": -655,
+                "x": -572,
+                "y": -427,
                 "z": 2
             },
             {
@@ -94,8 +94,8 @@
                 "locked": false,
                 "rotation": 0,
                 "svg": "<svg width=\"52\" height=\"24\"><text font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\" fill=\"#000000\" fill-opacity=\"1.0\">16 port</text></svg>",
-                "x": -369,
-                "y": -683,
+                "x": -364,
+                "y": -455,
                 "z": 2
             },
             {
@@ -103,8 +103,8 @@
                 "locked": false,
                 "rotation": 0,
                 "svg": "<svg width=\"211\" height=\"18\"><text font-family=\"Sans Serif\" font-size=\"6.0\" fill=\"#000000\" fill-opacity=\"1.0\">This switch represents 2 switches of 16 ports for 2 studios</text></svg>",
-                "x": -567,
-                "y": -763,
+                "x": -562,
+                "y": -535,
                 "z": 2
             },
             {
@@ -112,8 +112,8 @@
                 "locked": false,
                 "rotation": 0,
                 "svg": "<svg width=\"52\" height=\"24\"><text font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\" fill=\"#000000\" fill-opacity=\"1.0\">16 port</text></svg>",
-                "x": -555,
-                "y": -736,
+                "x": -550,
+                "y": -508,
                 "z": 2
             },
             {
@@ -121,8 +121,8 @@
                 "locked": false,
                 "rotation": 0,
                 "svg": "<svg width=\"168\" height=\"28\"><text font-family=\"Sans Serif\" font-size=\"6.0\" fill=\"#000000\" fill-opacity=\"1.0\">This switch represents 5 switches of 16 ports \n                for 5 conference rooms</text></svg>",
-                "x": -443,
-                "y": -825,
+                "x": -438,
+                "y": -597,
                 "z": 2
             },
             {
@@ -130,8 +130,8 @@
                 "locked": false,
                 "rotation": 0,
                 "svg": "<svg width=\"52\" height=\"24\"><text font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\" fill=\"#000000\" fill-opacity=\"1.0\">16 port</text></svg>",
-                "x": -448,
-                "y": -788,
+                "x": -443,
+                "y": -560,
                 "z": 2
             },
             {
@@ -139,8 +139,8 @@
                 "locked": false,
                 "rotation": 0,
                 "svg": "<svg width=\"148\" height=\"28\"><text font-family=\"Sans Serif\" font-size=\"6.0\" fill=\"#000000\" fill-opacity=\"1.0\">This switch represents 5 switches of 16 \n   ports for 5 video conference rooms</text></svg>",
-                "x": -305,
-                "y": -783,
+                "x": -300,
+                "y": -555,
                 "z": 2
             },
             {
@@ -148,8 +148,8 @@
                 "locked": false,
                 "rotation": 0,
                 "svg": "<svg width=\"628\" height=\"405\"><rect width=\"628\" height=\"405\" fill=\"#ffffff\" fill-opacity=\"1.0\" stroke-width=\"2\" stroke=\"#000000\" /></svg>",
-                "x": -133,
-                "y": -839,
+                "x": -128,
+                "y": -611,
                 "z": 0
             },
             {
@@ -157,8 +157,8 @@
                 "locked": false,
                 "rotation": 0,
                 "svg": "<svg width=\"82\" height=\"37\"><text font-family=\"Sans Serif\" font-size=\"18.0\" fill=\"#000000\" fill-opacity=\"1.0\">Floor 2</text></svg>",
-                "x": -125,
-                "y": -830,
+                "x": -120,
+                "y": -602,
                 "z": 2
             },
             {
@@ -166,8 +166,8 @@
                 "locked": false,
                 "rotation": 0,
                 "svg": "<svg width=\"52\" height=\"24\"><text font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\" fill=\"#000000\" fill-opacity=\"1.0\">32 port</text></svg>",
-                "x": -102,
-                "y": -614,
+                "x": -97,
+                "y": -386,
                 "z": 2
             },
             {
@@ -175,8 +175,8 @@
                 "locked": false,
                 "rotation": 0,
                 "svg": "<svg width=\"52\" height=\"24\"><text font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\" fill=\"#000000\" fill-opacity=\"1.0\">16 port</text></svg>",
-                "x": -97,
-                "y": -682,
+                "x": -92,
+                "y": -454,
                 "z": 2
             },
             {
@@ -184,8 +184,8 @@
                 "locked": false,
                 "rotation": 0,
                 "svg": "<svg width=\"172\" height=\"28\"><text font-family=\"Sans Serif\" font-size=\"6.0\" fill=\"#000000\" fill-opacity=\"1.0\">This switch represents 30 switches of 16 ports \n                      for commercial rooms</text></svg>",
-                "x": -88,
-                "y": -721,
+                "x": -83,
+                "y": -493,
                 "z": 2
             },
             {
@@ -193,8 +193,8 @@
                 "locked": false,
                 "rotation": 0,
                 "svg": "<svg width=\"52\" height=\"24\"><text font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\" fill=\"#000000\" fill-opacity=\"1.0\">16 port</text></svg>",
-                "x": 45,
-                "y": -607,
+                "x": 49,
+                "y": -379,
                 "z": 2
             },
             {
@@ -202,8 +202,8 @@
                 "locked": false,
                 "rotation": 0,
                 "svg": "<svg width=\"168\" height=\"28\"><text font-family=\"Sans Serif\" font-size=\"6.0\" fill=\"#000000\" fill-opacity=\"1.0\">This switch represents 5 switches of 16 ports \n                      for client support</text></svg>",
-                "x": 54,
-                "y": -771,
+                "x": 58,
+                "y": -543,
                 "z": 2
             },
             {
@@ -211,8 +211,8 @@
                 "locked": false,
                 "rotation": 0,
                 "svg": "<svg width=\"52\" height=\"24\"><text font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\" fill=\"#000000\" fill-opacity=\"1.0\">16 port</text></svg>",
-                "x": 57,
-                "y": -743,
+                "x": 61,
+                "y": -515,
                 "z": 2
             },
             {
@@ -220,8 +220,8 @@
                 "locked": false,
                 "rotation": 0,
                 "svg": "<svg width=\"52\" height=\"24\"><text font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\" fill=\"#000000\" fill-opacity=\"1.0\">32 port</text></svg>",
-                "x": 170,
-                "y": -691,
+                "x": 174,
+                "y": -463,
                 "z": 2
             },
             {
@@ -229,8 +229,8 @@
                 "locked": false,
                 "rotation": 0,
                 "svg": "<svg width=\"156\" height=\"28\"><text font-family=\"Sans Serif\" font-size=\"6.0\" fill=\"#000000\" fill-opacity=\"1.0\">20 workstations * 1.5 ports each = 30 port\n         </text></svg>",
-                "x": 189,
-                "y": -719,
+                "x": 193,
+                "y": -491,
                 "z": 2
             },
             {
@@ -238,8 +238,8 @@
                 "locked": false,
                 "rotation": 0,
                 "svg": "<svg width=\"52\" height=\"24\"><text font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\" fill=\"#000000\" fill-opacity=\"1.0\">48 port</text></svg>",
-                "x": 337,
-                "y": -620,
+                "x": 341,
+                "y": -392,
                 "z": 2
             },
             {
@@ -247,8 +247,8 @@
                 "locked": false,
                 "rotation": 0,
                 "svg": "<svg width=\"155\" height=\"28\"><text font-family=\"Sans Serif\" font-size=\"6.0\" fill=\"#000000\" fill-opacity=\"1.0\">                    Misc Equipment \n(setup boxes, wifi ap, game consoles, tvs)</text></svg>",
-                "x": 231,
-                "y": -642,
+                "x": 235,
+                "y": -414,
                 "z": 2
             },
             {
@@ -256,8 +256,8 @@
                 "locked": false,
                 "rotation": 0,
                 "svg": "<svg width=\"641\" height=\"405\"><rect width=\"641\" height=\"405\" fill=\"#ffffff\" fill-opacity=\"1.0\" stroke-width=\"2\" stroke=\"#000000\" /></svg>",
-                "x": -819,
-                "y": -160,
+                "x": -814,
+                "y": 66,
                 "z": 0
             },
             {
@@ -265,8 +265,8 @@
                 "locked": false,
                 "rotation": 0,
                 "svg": "<svg width=\"82\" height=\"37\"><text font-family=\"Sans Serif\" font-size=\"18.0\" fill=\"#000000\" fill-opacity=\"1.0\">Floor 3</text></svg>",
-                "x": -812,
-                "y": -154,
+                "x": -807,
+                "y": 72,
                 "z": 2
             },
             {
@@ -274,8 +274,8 @@
                 "locked": false,
                 "rotation": 0,
                 "svg": "<svg width=\"52\" height=\"24\"><text font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\" fill=\"#000000\" fill-opacity=\"1.0\">32 port</text></svg>",
-                "x": -781,
-                "y": -37,
+                "x": -776,
+                "y": 189,
                 "z": 2
             },
             {
@@ -283,8 +283,8 @@
                 "locked": false,
                 "rotation": 0,
                 "svg": "<svg width=\"240\" height=\"28\"><text font-family=\"Sans Serif\" font-size=\"6.0\" fill=\"#000000\" fill-opacity=\"1.0\">This switch represents 3 switches of 32 ports for consultant rooms\n                          and to avoid single points of failure</text></svg>",
-                "x": -813,
-                "y": -77,
+                "x": -808,
+                "y": 149,
                 "z": 2
             },
             {
@@ -292,8 +292,8 @@
                 "locked": false,
                 "rotation": 0,
                 "svg": "<svg width=\"171\" height=\"38\"><text font-family=\"Sans Serif\" font-size=\"6.0\" fill=\"#000000\" fill-opacity=\"1.0\">This switch represents 50 switches connected \n  half connect do each of the parent switches\n            50 rooms with 1 switch each</text></svg>",
-                "x": -783,
-                "y": 69,
+                "x": -778,
+                "y": 295,
                 "z": 2
             },
             {
@@ -301,8 +301,8 @@
                 "locked": false,
                 "rotation": 0,
                 "svg": "<svg width=\"52\" height=\"24\"><text font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\" fill=\"#000000\" fill-opacity=\"1.0\">16 port</text></svg>",
-                "x": -781,
-                "y": 48,
+                "x": -776,
+                "y": 274,
                 "z": 2
             },
             {
@@ -310,8 +310,8 @@
                 "locked": false,
                 "rotation": 0,
                 "svg": "<svg width=\"168\" height=\"28\"><text font-family=\"Sans Serif\" font-size=\"6.0\" fill=\"#000000\" fill-opacity=\"1.0\">This switch represents 10 switchs of 16 ports \n                  for conference rooms</text></svg>",
-                "x": -526,
-                "y": 77,
+                "x": -521,
+                "y": 303,
                 "z": 2
             },
             {
@@ -319,8 +319,8 @@
                 "locked": false,
                 "rotation": 0,
                 "svg": "<svg width=\"52\" height=\"24\"><text font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\" fill=\"#000000\" fill-opacity=\"1.0\">16 port</text></svg>",
-                "x": -525,
-                "y": -26,
+                "x": -520,
+                "y": 200,
                 "z": 2
             },
             {
@@ -328,8 +328,8 @@
                 "locked": false,
                 "rotation": 0,
                 "svg": "<svg width=\"52\" height=\"24\"><text font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\" fill=\"#000000\" fill-opacity=\"1.0\">16 port</text></svg>",
-                "x": -522,
-                "y": 60,
+                "x": -517,
+                "y": 286,
                 "z": 2
             },
             {
@@ -337,8 +337,8 @@
                 "locked": false,
                 "rotation": 0,
                 "svg": "<svg width=\"52\" height=\"24\"><text font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\" fill=\"#000000\" fill-opacity=\"1.0\">32 port</text></svg>",
-                "x": -341,
-                "y": 69,
+                "x": -336,
+                "y": 295,
                 "z": 2
             },
             {
@@ -346,8 +346,8 @@
                 "locked": false,
                 "rotation": 0,
                 "svg": "<svg width=\"164\" height=\"28\"><text font-family=\"Sans Serif\" font-size=\"6.0\" fill=\"#000000\" fill-opacity=\"1.0\">This switch represents 2 switchs of 32 ports \n                         for admins</text></svg>",
-                "x": -343,
-                "y": 87,
+                "x": -338,
+                "y": 313,
                 "z": 2
             },
             {
@@ -355,8 +355,8 @@
                 "locked": false,
                 "rotation": 0,
                 "svg": "<svg width=\"679\" height=\"405\"><rect width=\"679\" height=\"405\" fill=\"#ffffff\" fill-opacity=\"1.0\" stroke-width=\"2\" stroke=\"#000000\" /></svg>",
-                "x": -101,
-                "y": -172,
+                "x": -99,
+                "y": 54,
                 "z": 0
             },
             {
@@ -364,8 +364,8 @@
                 "locked": false,
                 "rotation": 0,
                 "svg": "<svg width=\"82\" height=\"37\"><text font-family=\"Sans Serif\" font-size=\"18.0\" fill=\"#000000\" fill-opacity=\"1.0\">Floor 4</text></svg>",
-                "x": -97,
-                "y": -168,
+                "x": -98,
+                "y": 59,
                 "z": 2
             },
             {
@@ -373,8 +373,8 @@
                 "locked": false,
                 "rotation": 0,
                 "svg": "<svg width=\"145\" height=\"18\"><text font-family=\"Sans Serif\" font-size=\"6.0\" fill=\"#000000\" fill-opacity=\"1.0\">1 switchs of 32 ports  for 15 employees</text></svg>",
-                "x": -71,
-                "y": 42,
+                "x": -66,
+                "y": 268,
                 "z": 2
             },
             {
@@ -382,8 +382,8 @@
                 "locked": false,
                 "rotation": 0,
                 "svg": "<svg width=\"52\" height=\"24\"><text font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\" fill=\"#000000\" fill-opacity=\"1.0\">32 port</text></svg>",
-                "x": -82,
-                "y": 17,
+                "x": -77,
+                "y": 243,
                 "z": 2
             },
             {
@@ -391,8 +391,8 @@
                 "locked": false,
                 "rotation": 0,
                 "svg": "<svg width=\"52\" height=\"24\"><text font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\" fill=\"#000000\" fill-opacity=\"1.0\">16 port</text></svg>",
-                "x": 184,
-                "y": 37,
+                "x": 188,
+                "y": 263,
                 "z": 2
             },
             {
@@ -400,8 +400,8 @@
                 "locked": false,
                 "rotation": 0,
                 "svg": "<svg width=\"106\" height=\"28\"><text font-family=\"Sans Serif\" font-size=\"6.0\" fill=\"#000000\" fill-opacity=\"1.0\">     3 switchs of 16 ports  \nfor video conference rooms </text></svg>",
-                "x": 212,
-                "y": 54,
+                "x": 216,
+                "y": 280,
                 "z": 2
             },
             {
@@ -409,8 +409,8 @@
                 "locked": false,
                 "rotation": 0,
                 "svg": "<svg width=\"273\" height=\"40\"><text font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\" fill=\"#000000\" fill-opacity=\"1.0\">This connection is layer 3, the L3 swithces \n        will be configured accordingly</text></svg>",
-                "x": 293,
-                "y": -77,
+                "x": 297,
+                "y": 149,
                 "z": 2
             },
             {
@@ -418,8 +418,8 @@
                 "locked": false,
                 "rotation": 0,
                 "svg": "<svg width=\"168\" height=\"28\"><text font-family=\"Sans Serif\" font-size=\"6.0\" fill=\"#000000\" fill-opacity=\"1.0\">This switch represents 2 swithces of 16 ports \n              to avoid single point of failure</text></svg>",
-                "x": -784,
-                "y": -579,
+                "x": -779,
+                "y": -351,
                 "z": 2
             },
             {
@@ -427,8 +427,8 @@
                 "locked": false,
                 "rotation": 0,
                 "svg": "<svg width=\"168\" height=\"28\"><text font-family=\"Sans Serif\" font-size=\"6.0\" fill=\"#000000\" fill-opacity=\"1.0\">This switch represents 2 swithces of 16 ports \n              to avoid single point of failure</text></svg>",
-                "x": -579,
-                "y": -583,
+                "x": -574,
+                "y": -355,
                 "z": 2
             },
             {
@@ -436,8 +436,8 @@
                 "locked": false,
                 "rotation": 0,
                 "svg": "<svg width=\"168\" height=\"28\"><text font-family=\"Sans Serif\" font-size=\"6.0\" fill=\"#000000\" fill-opacity=\"1.0\">This switch represents 2 swithces of 16 ports \n              to avoid single point of failure</text></svg>",
-                "x": -356,
-                "y": -659,
+                "x": -351,
+                "y": -431,
                 "z": 2
             },
             {
@@ -445,8 +445,8 @@
                 "locked": false,
                 "rotation": 0,
                 "svg": "<svg width=\"168\" height=\"28\"><text font-family=\"Sans Serif\" font-size=\"6.0\" fill=\"#000000\" fill-opacity=\"1.0\">This switch represents 2 swithces of 32 ports \n              to avoid single point of failure</text></svg>",
-                "x": -115,
-                "y": -589,
+                "x": -110,
+                "y": -361,
                 "z": 2
             },
             {
@@ -454,8 +454,8 @@
                 "locked": false,
                 "rotation": 0,
                 "svg": "<svg width=\"168\" height=\"28\"><text font-family=\"Sans Serif\" font-size=\"6.0\" fill=\"#000000\" fill-opacity=\"1.0\">This switch represents 2 swithces of 16 ports \n              to avoid single point of failure</text></svg>",
-                "x": 49,
-                "y": -590,
+                "x": 53,
+                "y": -362,
                 "z": 2
             },
             {
@@ -463,8 +463,8 @@
                 "locked": false,
                 "rotation": 0,
                 "svg": "<svg width=\"168\" height=\"28\"><text font-family=\"Sans Serif\" font-size=\"6.0\" fill=\"#000000\" fill-opacity=\"1.0\">This switch represents 2 swithces of 16 ports \n              to avoid single point of failure</text></svg>",
-                "x": -510,
-                "y": -66,
+                "x": -505,
+                "y": 160,
                 "z": 2
             },
             {
@@ -472,8 +472,8 @@
                 "locked": false,
                 "rotation": 0,
                 "svg": "<svg width=\"52\" height=\"24\"><text font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\" fill=\"#000000\" fill-opacity=\"1.0\">16 port</text></svg>",
-                "x": -322,
-                "y": -743,
+                "x": -317,
+                "y": -515,
                 "z": 2
             },
             {
@@ -481,8 +481,8 @@
                 "locked": false,
                 "rotation": 0,
                 "svg": "<svg width=\"168\" height=\"28\"><text font-family=\"Sans Serif\" font-size=\"6.0\" fill=\"#000000\" fill-opacity=\"1.0\">This switch represents 2 swithces of 32 ports \n              to avoid single point of failure</text></svg>",
-                "x": 174,
-                "y": -673,
+                "x": 178,
+                "y": -445,
                 "z": 2
             }
         ],
@@ -3024,8 +3024,8 @@
                 "symbol": ":/symbols/multilayer_switch.svg",
                 "template_id": "c6b8b933-1a5d-4570-b98f-90ca1a137734",
                 "width": 51,
-                "x": -283,
-                "y": -494,
+                "x": -278,
+                "y": -266,
                 "z": 1
             },
             {
@@ -3081,8 +3081,8 @@
                 "symbol": ":/symbols/multilayer_switch.svg",
                 "template_id": "c6b8b933-1a5d-4570-b98f-90ca1a137734",
                 "width": 51,
-                "x": -447,
-                "y": -494,
+                "x": -446,
+                "y": -265,
                 "z": 1
             },
             {
@@ -3138,8 +3138,8 @@
                 "symbol": ":/symbols/multilayer_switch.svg",
                 "template_id": "c6b8b933-1a5d-4570-b98f-90ca1a137734",
                 "width": 51,
-                "x": -90,
-                "y": -498,
+                "x": -85,
+                "y": -270,
                 "z": 1
             },
             {
@@ -3195,8 +3195,8 @@
                 "symbol": ":/symbols/multilayer_switch.svg",
                 "template_id": "c6b8b933-1a5d-4570-b98f-90ca1a137734",
                 "width": 51,
-                "x": 28,
-                "y": -495,
+                "x": 33,
+                "y": -267,
                 "z": 1
             },
             {
@@ -3252,8 +3252,8 @@
                 "symbol": ":/symbols/multilayer_switch.svg",
                 "template_id": "c6b8b933-1a5d-4570-b98f-90ca1a137734",
                 "width": 51,
-                "x": -421,
-                "y": -141,
+                "x": -416,
+                "y": 85,
                 "z": 1
             },
             {
@@ -3309,8 +3309,8 @@
                 "symbol": ":/symbols/multilayer_switch.svg",
                 "template_id": "c6b8b933-1a5d-4570-b98f-90ca1a137734",
                 "width": 51,
-                "x": -269,
-                "y": -140,
+                "x": -276,
+                "y": 78,
                 "z": 1
             },
             {
@@ -3366,8 +3366,8 @@
                 "symbol": ":/symbols/multilayer_switch.svg",
                 "template_id": "c6b8b933-1a5d-4570-b98f-90ca1a137734",
                 "width": 51,
-                "x": 37,
-                "y": -141,
+                "x": 24,
+                "y": 87,
                 "z": 1
             },
             {
@@ -3423,8 +3423,8 @@
                 "symbol": ":/symbols/multilayer_switch.svg",
                 "template_id": "c6b8b933-1a5d-4570-b98f-90ca1a137734",
                 "width": 51,
-                "x": 155,
-                "y": -138,
+                "x": 150,
+                "y": 89,
                 "z": 1
             },
             {
@@ -3492,8 +3492,8 @@
                 "symbol": ":/symbols/router.svg",
                 "template_id": "201a767f-f6b2-4c36-a7f2-a324386f096f",
                 "width": 66,
-                "x": -243,
-                "y": -284,
+                "x": -236,
+                "y": -74,
                 "z": 1
             },
             {
@@ -3561,8 +3561,8 @@
                 "symbol": ":/symbols/router.svg",
                 "template_id": "201a767f-f6b2-4c36-a7f2-a324386f096f",
                 "width": 66,
-                "x": -66,
-                "y": -324,
+                "x": -61,
+                "y": -96,
                 "z": 1
             },
             {
@@ -3641,8 +3641,8 @@
                 "symbol": ":/symbols/ethernet_switch.svg",
                 "template_id": "1966b864-93e7-32d5-965f-001384eec461",
                 "width": 72,
-                "x": -721,
-                "y": -624,
+                "x": -716,
+                "y": -396,
                 "z": 1
             },
             {
@@ -3721,8 +3721,8 @@
                 "symbol": ":/symbols/ethernet_switch.svg",
                 "template_id": "1966b864-93e7-32d5-965f-001384eec461",
                 "width": 72,
-                "x": -528,
-                "y": -616,
+                "x": -523,
+                "y": -388,
                 "z": 1
             },
             {
@@ -3801,8 +3801,8 @@
                 "symbol": ":/symbols/ethernet_switch.svg",
                 "template_id": "1966b864-93e7-32d5-965f-001384eec461",
                 "width": 72,
-                "x": -320,
-                "y": -695,
+                "x": -315,
+                "y": -467,
                 "z": 1
             },
             {
@@ -3881,8 +3881,8 @@
                 "symbol": ":/symbols/ethernet_switch.svg",
                 "template_id": "1966b864-93e7-32d5-965f-001384eec461",
                 "width": 72,
-                "x": -720,
-                "y": -694,
+                "x": -715,
+                "y": -466,
                 "z": 1
             },
             {
@@ -3961,8 +3961,8 @@
                 "symbol": ":/symbols/ethernet_switch.svg",
                 "template_id": "1966b864-93e7-32d5-965f-001384eec461",
                 "width": 72,
-                "x": -527,
-                "y": -669,
+                "x": -522,
+                "y": -441,
                 "z": 1
             },
             {
@@ -4041,8 +4041,8 @@
                 "symbol": ":/symbols/ethernet_switch.svg",
                 "template_id": "1966b864-93e7-32d5-965f-001384eec461",
                 "width": 72,
-                "x": -504,
-                "y": -751,
+                "x": -499,
+                "y": -523,
                 "z": 1
             },
             {
@@ -4121,8 +4121,8 @@
                 "symbol": ":/symbols/ethernet_switch.svg",
                 "template_id": "1966b864-93e7-32d5-965f-001384eec461",
                 "width": 72,
-                "x": -398,
-                "y": -799,
+                "x": -393,
+                "y": -571,
                 "z": 1
             },
             {
@@ -4201,8 +4201,8 @@
                 "symbol": ":/symbols/ethernet_switch.svg",
                 "template_id": "1966b864-93e7-32d5-965f-001384eec461",
                 "width": 72,
-                "x": -272,
-                "y": -755,
+                "x": -267,
+                "y": -527,
                 "z": 1
             },
             {
@@ -4281,8 +4281,8 @@
                 "symbol": ":/symbols/ethernet_switch.svg",
                 "template_id": "1966b864-93e7-32d5-965f-001384eec461",
                 "width": 72,
-                "x": -45,
-                "y": -623,
+                "x": -40,
+                "y": -395,
                 "z": 1
             },
             {
@@ -4361,8 +4361,8 @@
                 "symbol": ":/symbols/ethernet_switch.svg",
                 "template_id": "1966b864-93e7-32d5-965f-001384eec461",
                 "width": 72,
-                "x": -40,
-                "y": -697,
+                "x": -35,
+                "y": -469,
                 "z": 1
             },
             {
@@ -4441,8 +4441,8 @@
                 "symbol": ":/symbols/ethernet_switch.svg",
                 "template_id": "1966b864-93e7-32d5-965f-001384eec461",
                 "width": 72,
-                "x": 96,
-                "y": -620,
+                "x": 100,
+                "y": -392,
                 "z": 1
             },
             {
@@ -4521,8 +4521,8 @@
                 "symbol": ":/symbols/ethernet_switch.svg",
                 "template_id": "1966b864-93e7-32d5-965f-001384eec461",
                 "width": 72,
-                "x": 101,
-                "y": -742,
+                "x": 105,
+                "y": -514,
                 "z": 1
             },
             {
@@ -4601,8 +4601,8 @@
                 "symbol": ":/symbols/ethernet_switch.svg",
                 "template_id": "1966b864-93e7-32d5-965f-001384eec461",
                 "width": 72,
-                "x": 222,
-                "y": -704,
+                "x": 226,
+                "y": -476,
                 "z": 1
             },
             {
@@ -4681,8 +4681,8 @@
                 "symbol": ":/symbols/ethernet_switch.svg",
                 "template_id": "1966b864-93e7-32d5-965f-001384eec461",
                 "width": 72,
-                "x": 268,
-                "y": -618,
+                "x": 272,
+                "y": -390,
                 "z": 1
             },
             {
@@ -4761,8 +4761,8 @@
                 "symbol": ":/symbols/ethernet_switch.svg",
                 "template_id": "1966b864-93e7-32d5-965f-001384eec461",
                 "width": 72,
-                "x": -730,
-                "y": -50,
+                "x": -725,
+                "y": 176,
                 "z": 1
             },
             {
@@ -4841,8 +4841,8 @@
                 "symbol": ":/symbols/ethernet_switch.svg",
                 "template_id": "1966b864-93e7-32d5-965f-001384eec461",
                 "width": 72,
-                "x": -731,
-                "y": 39,
+                "x": -726,
+                "y": 265,
                 "z": 1
             },
             {
@@ -4921,8 +4921,8 @@
                 "symbol": ":/symbols/ethernet_switch.svg",
                 "template_id": "1966b864-93e7-32d5-965f-001384eec461",
                 "width": 72,
-                "x": -473,
-                "y": -38,
+                "x": -468,
+                "y": 188,
                 "z": 1
             },
             {
@@ -5001,8 +5001,8 @@
                 "symbol": ":/symbols/ethernet_switch.svg",
                 "template_id": "1966b864-93e7-32d5-965f-001384eec461",
                 "width": 72,
-                "x": -473,
-                "y": 47,
+                "x": -468,
+                "y": 273,
                 "z": 1
             },
             {
@@ -5081,8 +5081,8 @@
                 "symbol": ":/symbols/ethernet_switch.svg",
                 "template_id": "1966b864-93e7-32d5-965f-001384eec461",
                 "width": 72,
-                "x": -289,
-                "y": 56,
+                "x": -284,
+                "y": 282,
                 "z": 1
             },
             {
@@ -5161,8 +5161,8 @@
                 "symbol": ":/symbols/ethernet_switch.svg",
                 "template_id": "1966b864-93e7-32d5-965f-001384eec461",
                 "width": 72,
-                "x": -28,
-                "y": 5,
+                "x": -23,
+                "y": 231,
                 "z": 1
             },
             {
@@ -5241,8 +5241,8 @@
                 "symbol": ":/symbols/ethernet_switch.svg",
                 "template_id": "1966b864-93e7-32d5-965f-001384eec461",
                 "width": 72,
-                "x": 234,
-                "y": 23,
+                "x": 238,
+                "y": 249,
                 "z": 1
             },
             {
@@ -5310,8 +5310,8 @@
                 "symbol": ":/symbols/router.svg",
                 "template_id": "201a767f-f6b2-4c36-a7f2-a324386f096f",
                 "width": 66,
-                "x": 385,
-                "y": 7,
+                "x": 389,
+                "y": 233,
                 "z": 1
             },
             {
@@ -5339,8 +5339,8 @@
                 "symbol": ":/symbols/vpcs_guest.svg",
                 "template_id": "19021f99-e36f-394d-b4a1-8aaa902ab9cc",
                 "width": 65,
-                "x": -541,
-                "y": -381,
+                "x": -536,
+                "y": -153,
                 "z": 1
             },
             {
@@ -5368,8 +5368,8 @@
                 "symbol": ":/symbols/vpcs_guest.svg",
                 "template_id": "19021f99-e36f-394d-b4a1-8aaa902ab9cc",
                 "width": 65,
-                "x": -536,
-                "y": -305,
+                "x": -531,
+                "y": -77,
                 "z": 1
             },
             {
@@ -5437,8 +5437,8 @@
                 "symbol": ":/symbols/router.svg",
                 "template_id": "201a767f-f6b2-4c36-a7f2-a324386f096f",
                 "width": 66,
-                "x": 127,
-                "y": -250,
+                "x": 131,
+                "y": -23,
                 "z": 1
             },
             {
@@ -5494,8 +5494,8 @@
                 "symbol": ":/symbols/multilayer_switch.svg",
                 "template_id": "c6b8b933-1a5d-4570-b98f-90ca1a137734",
                 "width": 51,
-                "x": 114,
-                "y": -407,
+                "x": 122,
+                "y": -188,
                 "z": 1
             },
             {
@@ -5551,8 +5551,8 @@
                 "symbol": ":/symbols/multilayer_switch.svg",
                 "template_id": "c6b8b933-1a5d-4570-b98f-90ca1a137734",
                 "width": 51,
-                "x": 114,
-                "y": -336,
+                "x": 118,
+                "y": -108,
                 "z": 1
             },
             {
@@ -5631,8 +5631,8 @@
                 "symbol": ":/symbols/ethernet_switch.svg",
                 "template_id": "1966b864-93e7-32d5-965f-001384eec461",
                 "width": 72,
-                "x": -424,
-                "y": -311,
+                "x": -419,
+                "y": -83,
                 "z": 1
             },
             {
@@ -5700,8 +5700,8 @@
                 "symbol": ":/symbols/router.svg",
                 "template_id": "201a767f-f6b2-4c36-a7f2-a324386f096f",
                 "width": 66,
-                "x": 441,
-                "y": -391,
+                "x": 445,
+                "y": -163,
                 "z": 1
             },
             {
@@ -5769,8 +5769,8 @@
                 "symbol": ":/symbols/router.svg",
                 "template_id": "201a767f-f6b2-4c36-a7f2-a324386f096f",
                 "width": 66,
-                "x": 442,
-                "y": -312,
+                "x": 446,
+                "y": -84,
                 "z": 1
             },
             {
@@ -5798,8 +5798,8 @@
                 "symbol": ":/symbols/vpcs_guest.svg",
                 "template_id": "19021f99-e36f-394d-b4a1-8aaa902ab9cc",
                 "width": 65,
-                "x": -540,
-                "y": -230,
+                "x": -535,
+                "y": -3,
                 "z": 1
             }
         ]
@@ -5807,5 +5807,5 @@
     "type": "topology",
     "variables": null,
     "version": "2.2.19",
-    "zoom": 100
+    "zoom": 200
 }

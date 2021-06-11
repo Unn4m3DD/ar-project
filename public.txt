@@ -1,0 +1,15 @@
+Aveiro -> /26
+2 video call + 2 gateway + 2 (prefix e broadcast) = 6 -> /29
+3 video call + 2 gateway + 2 (prefix e broadcast) = 7 -> /29
+1 admin + 1 research + 1 service + 2 gateway + 1 dns + 2 (prefix e broadcast) + possibly expandable = 8 -> /28
+32 nat addresses -> /27
+
+Lisboa -> /27
+2 video call + 2 gateway + 2 (prefix e broadcast) = 6 -> /29
+3 video call + 2 gateway + 2 (prefix e broadcast) = 7 -> /29
+16 nat addresses -> /28
+
+S. Francisco -> /27
+2 video call + 2 gateway + 2 (prefix e broadcast) = 6 -> /29
+3 video call + 2 gateway + 2 (prefix e broadcast) = 7 -> /29
+16 nat addresses -> /28
