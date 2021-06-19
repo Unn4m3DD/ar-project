@@ -64,6 +64,7 @@ switchport trunk encapsulation dot1q
     vlan_buffer += f"{row[1]}\n"
     ip_buffer += (f"""int {row[1]}
   ip add {row[2].split("/")[0]} {cidr[row[2].split("/")[1]]}
+  no ipv add
   ipv add {row[3]}\n\n""")
     last_name = row[0]
 
